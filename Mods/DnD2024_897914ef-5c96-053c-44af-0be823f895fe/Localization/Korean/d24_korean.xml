@@ -2638,4 +2638,6 @@
 <content contentuid="hfbaf8787g7d62g9757gb357ga02807685517" version="1">레벨 10: 보복의 질책</content>
 <content contentuid="h73551691g8cf1gf6aag4c6eg48306405cb7d" version="1">당신은 자신이나 후원자의 권능에 도전하는 자를 물리치는 법을 배웁니다. 적이 당신을 대상으로 명중 굴림을 할 때, 대응을 사용하여 해당 명중 굴림에 불리 보정을 부여할 수 있습니다. 공격한 크리처는 당신의 주문 내성 DC에 대한 매력 내성 굴림을 해야 하며, 실패 시 당신의 워락 레벨과 같은 수치의 정신 피해를 입습니다.</content>
 <content contentuid="h2e2495a9g8566g58c2g6c24gb96bedad35ea" version="1">이 기능은 당신의 매력 보정치와 같은 횟수만큼 사용할 수 있으며(최소 1회), 긴 휴식을 완료하면 소모한 모든 사용 횟수를 회복합니다.</content>
+<content contentuid="ha96e13d9ga261g26f5gdedeg3024a9e99c27" version="1">카드 분사</content>
+<content contentuid="h38613d06g0c61gde19gd3e4g603555e36f68" version="1">당신은 영체의 카드를 분사합니다. 해당 영역 내의 각 크리처는 민첩 내성 굴림을 해야 합니다. 실패하면 크리처는 역장 피해를 입고, 다음 턴 종료 시까지 실명 상태가 됩니다. 성공하면 피해를 절반만 입고 다른 효과는 받지 않습니다.</content>
 </contentList>

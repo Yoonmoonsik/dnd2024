@@ -2882,6 +2882,7 @@ The appropriate spells have been added to the class spell list, aligning with th
 - [Shadow Blade](https://www.dndbeyond.com/spells/14595-shadow-blade)
 - [Snilloc's Snowball Swarm](https://www.dndbeyond.com/spells/2399-snillocs-snowball-swarm)
 - [Spiritual Weapon](https://www.dndbeyond.com/spells/2619081-spiritual-weapon)
+- [Spray of Cards](https://www.dndbeyond.com/spells/2158658-spray-of-cards)![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Skills/4_Readme_48/Spell_Conjuration_SprayOfCards.png?raw=true)
 - [Summon Beast](https://www.dndbeyond.com/spells/2619106-summon-beast)
 - [Tasha's Mind Whip](https://www.dndbeyond.com/spells/719959-tashas-mind-whip) ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Skills/4_Readme_48/Spell_Enchantment_MindWhip.png?raw=true)
 - [Warding Bond](https://www.dndbeyond.com/spells/2619203-warding-bond)

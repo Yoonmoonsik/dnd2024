@@ -2638,4 +2638,6 @@
   <content contentuid="hfbaf8787g7d62g9757gb357ga02807685517" version="1">Level 10: Vindictive Rebuke</content>
   <content contentuid="h73551691g8cf1gf6aag4c6eg48306405cb7d" version="1">You learn to rebuff those who challenge you or the might of your patron. When an enemy makes an attack roll against you, you can take a Reaction to impose Disadvantage on that attack roll. The attacking creature must succeed on a Charisma saving throw against your spell save DC or take Psychic damage equal to your Warlock level.</content>
   <content contentuid="h2e2495a9g8566g58c2g6c24gb96bedad35ea" version="1">You can do so a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.</content>
+  <content contentuid="ha96e13d9ga261g26f5gdedeg3024a9e99c27" version="1">Spray of Cards</content>
+  <content contentuid="h38613d06g0c61gde19gd3e4g603555e36f68" version="1">You spray spectral cards. Each creature in that area must make a Dexterity saving throw. On a failed save, a creature takes force damage and has the blinded condition until the end of its next turn. On a successful save, a creature takes half as much damage only.</content>
 </contentList>
