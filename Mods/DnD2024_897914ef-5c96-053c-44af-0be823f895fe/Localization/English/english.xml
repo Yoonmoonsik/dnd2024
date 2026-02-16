@@ -2640,4 +2640,6 @@
   <content contentuid="h2e2495a9g8566g58c2g6c24gb96bedad35ea" version="1">You can do so a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.</content>
   <content contentuid="ha96e13d9ga261g26f5gdedeg3024a9e99c27" version="1">Spray of Cards</content>
   <content contentuid="h38613d06g0c61gde19gd3e4g603555e36f68" version="1">You spray spectral cards. Each creature in that area must make a Dexterity saving throw. On a failed save, a creature takes force damage and has the blinded condition until the end of its next turn. On a successful save, a creature takes half as much damage only.</content>
+  <content contentuid="h074c63b2g3284geb4cg7b00gac0ee1ab3d55" version="1">The affected entity is immune to Poisons and being &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt; and its maximum &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; are increased by [1].</content>
+  <content contentuid="h4f7778efg3f00g2abfg725ageefcbbb2a777" version="1">You and everyone around can't be poisoned, or frightened. Your &lt;LSTag Tooltip="HitPoints"&gt;HP&lt;/LSTag&gt; increases.</content>
 </contentList>

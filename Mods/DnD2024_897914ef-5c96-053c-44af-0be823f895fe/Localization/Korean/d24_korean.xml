@@ -2640,4 +2640,6 @@
 <content contentuid="h2e2495a9g8566g58c2g6c24gb96bedad35ea" version="1">이 기능은 당신의 매력 보정치와 같은 횟수만큼 사용할 수 있으며(최소 1회), 긴 휴식을 완료하면 소모한 모든 사용 횟수를 회복합니다.</content>
 <content contentuid="ha96e13d9ga261g26f5gdedeg3024a9e99c27" version="1">카드 분사</content>
 <content contentuid="h38613d06g0c61gde19gd3e4g603555e36f68" version="1">당신은 영체의 카드를 분사합니다. 해당 영역 내의 각 크리처는 민첩 내성 굴림을 해야 합니다. 실패하면 크리처는 역장 피해를 입고, 다음 턴 종료 시까지 실명 상태가 됩니다. 성공하면 피해를 절반만 입고 다른 효과는 받지 않습니다.</content>
+<content contentuid="h074c63b2g3284geb4cg7b00gac0ee1ab3d55" version="1">영향을 받은 대상은 중독, &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;겁에 질림&lt;/LSTag&gt; 상태에 면역되고, 최대 &lt;LSTag Tooltip="HitPoints"&gt;생명력&lt;/LSTag&gt;이 [1] 증가합니다.</content>
+<content contentuid="h4f7778efg3f00g2abfg725ageefcbbb2a777" version="1">자신과 주변의 모두가 중독, 겁에 질림 상태가 되지 않게되고, &lt;LSTag Tooltip="HitPoints"&gt;생명력&lt;/LSTag&gt;이 상승합니다.</content>
 </contentList>

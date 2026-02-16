@@ -1613,6 +1613,16 @@
         <field name="FormatColor" type="EnumerationTableFieldDefinition" value="Water" enumeration_type_name="FormatStringColor" version="1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8ec2a674-d910-4a90-a6c4-b7119ba78f6a" />
+        <field name="Name" type="NameTableFieldDefinition" value="HEROES_FEAST" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f0c8ef4a-dc1a-4b29-9912-4e3ce683a004" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h074c63b2g3284geb4cg7b00gac0ee1ab3d55" version="1" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="2d10" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="StatusImmunity(SG_Poisoned);StatusImmunity(SG_Frightened);IncreaseMaxHP(2d10);" />
+      </fields>
+    </stat_object>
     <stat_object color="#FF000000" is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="92ba0e8e-ceb1-4ba5-ac0a-766a8fc7b579" />
