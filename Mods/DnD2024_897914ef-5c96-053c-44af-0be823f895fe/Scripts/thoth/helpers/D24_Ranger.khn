@@ -1,0 +1,3 @@
+function HasHuntersMarkStatus()
+    return HasAnyStatus({'HUNTERS_MARK','HUNTERS_MARK_2','HUNTERS_MARK_4'}, {}, {},context.Target,context.Source)
+end

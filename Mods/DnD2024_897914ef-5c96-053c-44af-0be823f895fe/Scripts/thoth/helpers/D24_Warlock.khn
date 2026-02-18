@@ -1,3 +1,7 @@
+function HasHexStatus()
+    return HasAnyStatus({'HEX_STRENGTH','HEX_STRENGTH_2','HEX_STRENGTH_3','HEX_STRENGTH_4','HEX_STRENGTH_5','HEX_STRENGTH_6','HEX_DEXTERITY','HEX_CONSTITUTION','HEX_INTELLIGENCE','HEX_WISDOM','HEX_CHARISMA','HEX_STRENGTH_ELDRITCH'}, {}, {},context.Target,context.Source)
+end
+
 function IsWarlockCantrip()
     return TrueStrikeCheck()
     |   SpellId('Projectile_BloodBolt')
