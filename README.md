@@ -992,12 +992,15 @@ Formerly, Purple Dragon Knight
   - Once you use this ability, you can’t use it again until you finish a Short or Long Rest.
 - Level 7: Team Tactics
   - When you use Group Recovery, each chosen ally has Advantage on attack rolls, and saving throws until the start of your next turn.
-- Level 10: Rallying Surge
+- Level 7: Rallying Surge
   - When you use your Action Surge, you can choose allies within a 30-foot Emanation originating from yourself, up to a number of allies equal to your Charisma modifier (minimum of one). Each of those allies can take a Reaction to use one of the following options.
   - Attack. The ally makes one attack with a weapon or an Unarmed Strike.
   - Move. The ally moves up to half its Speed without provoking Opportunity Attacks.
-- Level 12: Shared Resilience
+- Level 10: Shared Resilience
   - When an ally you can see within 60 feet of yourself fails a saving throw, you can take a Reaction to expend a use of your Indomitable feature. The ally can immediately reroll the saving throw with a bonus equal to your Fighter level.
+- Level 12: Inspiring Commander
+  - The area of effect for both Group Recovery and Rallying Surge is now a 60-foot Emanation.
+  - You have Immunity to the Charmed and Frightened conditions.
 
 ### Rune Knight
 

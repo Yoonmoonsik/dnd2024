@@ -170,7 +170,6 @@
   <content contentuid="h23934194g298egb01agaf0bg150c61137922" version="1">震慑打击：火</content>
   <content contentuid="h23949f09g6250gc872g6ae7gab3b84c92470" version="1">喷吐武器 (毒药、锥形)</content>
   <content contentuid="h23b51794gb3cfgc094g47e7gd140d1f2b821" version="2">召唤地狱：惩罚</content>
-  <content contentuid="h23d20fc5g3de7g3667g55c9g7166d51f0458" version="1">反弹浪潮</content>
   <content contentuid="h2430f6e5g5b9fgafd6g0c5bg49f27ca491c7" version="1">当你对被禁制的生物进行武器攻击时，如果攻击命中，则会成为致命一击。</content>
   <content contentuid="h24752c9cgafa7gb590g6c7dg441e0aa6be93" version="1">元素协调：推动</content>
   <content contentuid="h24a998dfg5bf2g9a27g79afgb7666d1547a7" version="2">一种外星力量已经缠绕了你的思想，赋予你灵能。现在你可以用这种力量影响他人的思想，改变你周围的世界。这种力量会从你身上散发出来，成为他人的希望之光吗？还是你会成为那些感受到你思想刺痛的人的恐怖分子？</content>
@@ -632,7 +631,6 @@
   <content contentuid="h9023d5deg97dcgf252gcf46g5f6221eac34e" version="1">将您选择的一项能力得分提高 1，最高可达 20。您将熟练掌握您选择的一项技能。选择一项您熟练但缺乏专业知识的技能。您将获得该技能的专业知识。</content>
   <content contentuid="h911847a4gf1a9gd5c7gcf1dge0020fa9b902" version="2">灵器：战神的祝福</content>
   <content contentuid="h918eca09g904cgd34ag2fadgd2859496fe26" version="1">当你使用 2 级及以上法术位施放占卜法术时，你将恢复一个已消耗的法术位。恢复的法术位必须低于已消耗的法术位，且不能高于 5 级。</content>
-  <content contentuid="h918f1f16gacf5gadd3gf100ge16acd754691" version="1">骑士使者</content>
   <content contentuid="h91a4efcfgcbebg77e9gbc6dg41bc63d1d14d" version="2">当你采取冲刺行动时，你的速度会随着该行动增加 [1]。</content>
   <content contentuid="h91f4b14cg0b5fgd996ga45dg8657a7c363f6" version="1">你有 &lt;LSTag Tooltip="Proficiency"&gt;熟练程度&lt;/LSTag&gt; 在  &lt;LSTag Tooltip="AnimalHandling"&gt;动物处理&lt;/LSTag&gt; 和  &lt;LSTag Tooltip="Persuasion"&gt;劝说&lt;/LSTag&gt;。 </content>
   <content contentuid="h92494e1fg293aga95fg5efdg58fdff52d4e6" version="1">阿斯莫德斯的秘密让你可以为你的封印注入显化的力量。当你燃烧一个或多个封印来对生物造成伤害时，你可以激活此恩惠（无需任何行动）以将你的魅力调整值（至少为 1）添加到每个封印的伤害掷骰中。</content>

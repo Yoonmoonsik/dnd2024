@@ -170,7 +170,6 @@
   <content contentuid="h23934194g298egb01agaf0bg150c61137922" version="1">Ataque impressionante: fogo</content>
   <content contentuid="h23949f09g6250gc872g6ae7gab3b84c92470" version="1">Arma de sopro (veneno, cone)</content>
   <content contentuid="h23b51794gb3cfgc094g47e7gd140d1f2b821" version="2">Invocar o Inferno: Punição</content>
-  <content contentuid="h23d20fc5g3de7g3667g55c9g7166d51f0458" version="1">Aumento de Rally</content>
   <content contentuid="h2430f6e5g5b9fgafd6g0c5bg49f27ca491c7" version="1">Quando você faz um ataque com arma contra uma criatura interceptada, se o ataque acertar, ele se torna um acerto crítico.</content>
   <content contentuid="h24752c9cgafa7gb590g6c7dg441e0aa6be93" version="1">Sintonização Elemental: Empurrar</content>
   <content contentuid="h24a998dfg5bf2g9a27g79afgb7666d1547a7" version="2">Uma influência alienígena envolveu seus tentáculos em torno de sua mente, dando a você poder psiônico. Agora você pode tocar outras mentes com esse poder e alterar o mundo ao seu redor. Esse poder brilhará de você como um farol esperançoso para os outros? Ou você será um terror para aqueles que sentirem a punhalada de sua mente?</content>
@@ -632,7 +631,6 @@
   <content contentuid="h9023d5deg97dcgf252gcf46g5f6221eac34e" version="1">Aumente uma pontuação de habilidade de sua escolha em 1, até um máximo de 20. Você ganha proficiência em uma perícia de sua escolha. Escolha uma perícia na qual você tenha proficiência, mas não tenha Expertise. Você ganha Expertise com essa perícia.</content>
   <content contentuid="h911847a4gf1a9gd5c7gcf1dge0020fa9b902" version="2">Arma Espiritual: Bênção de Deus da Guerra</content>
   <content contentuid="h918eca09g904cgd34ag2fadgd2859496fe26" version="1">Quando você conjura uma magia de Adivinhação usando um espaço de magia de nível 2+, você recupera um espaço de magia gasto. O espaço que você recupera deve ser de um nível menor do que o espaço que você gastou e não pode ser maior do que o nível 5.</content>
-  <content contentuid="h918f1f16gacf5gadd3gf100ge16acd754691" version="1">Enviado Cavalheiresco</content>
   <content contentuid="h91a4efcfgcbebg77e9gbc6dg41bc63d1d14d" version="2">Quando você realiza a Ação de Disparo, sua Velocidade aumenta em [1] para essa ação.</content>
   <content contentuid="h91f4b14cg0b5fgd996ga45dg8657a7c363f6" version="1">Você tem  &lt;LSTag Tooltip="Proficiency"&gt;Proficiência&lt;/LSTag&gt; em  &lt;LSTag Tooltip="AnimalHandling"&gt;Manejo de animais&lt;/LSTag&gt; e  &lt;LSTag Tooltip="Persuasion"&gt;Persuasão&lt;/LSTag&gt;. </content>
   <content contentuid="h92494e1fg293aga95fg5efdg58fdff52d4e6" version="1">Os segredos de Asmodeus permitem que você infunda seus selos com poder manifesto. Quando você queima um ou mais selos para causar dano a uma criatura, você pode ativar esta dádiva (nenhuma ação necessária) para adicionar seu modificador de Carisma (mínimo de 1) à rolagem de dano de cada selo.</content>

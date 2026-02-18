@@ -66,7 +66,6 @@
   <content contentuid="h0017f790g8f2bg9a2cged1dg822c935f9562" version="1">Guerrier des Éléments</content>
   <content contentuid="h0088e4aagaf1bg8847gd3c7g9e6ba6691ade" version="3">Une fois par tour, lorsque vous touchez une créature avec votre arme, vous pouvez infliger 1d6 dégâts Nécrotiques, Psychiques ou Radiants supplémentaires (au choix), et vous regagnez [2].</content>
   <content contentuid="h0089d036ga5d2g2ad4g5a69gb27fac03e9cd" version="1">Vous avez toujours le sort Marque du chasseur préparé. Vous pouvez le lancer deux fois sans dépenser d'emplacement de sort ; vous récupérez ces utilisations à la fin d'un Repos long. Au niveau 5 de rôdeur, vous gagnez 1 utilisation supplémentaire. Au niveau 9, vous disposez de 4 utilisations.</content>
-  <content contentuid="h0139bcd7gba31g9628g0aa7g7269d709e082" version="2">Récupération de groupe</content>
   <content contentuid="h01bf5454gf518g5a93g1ae3gad45fe737357" version="1">Lancement de sorts puissant amélioré</content>
   <content contentuid="h01da9083g978dg0d2cg06dfg8e6bb4a22fe9" version="2">Vous ne pouvez pas modifier un sort de cette façon si vous avez déjà lancé un sort de niveau 1+ ce tour-ci, ni lancer un sort de niveau 1+ après avoir utilisé cette modification au cours du même tour.</content>
   <content contentuid="h021d82eag33b4g9375g4afdg2ee3433d7fda" version="1">Le paladin et ses alliés proches bénéficient de la &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; aux dégâts Nécrotiques, Psychiques et Radiants.</content>
@@ -242,7 +241,6 @@
   <content contentuid="h23934194g298egb01agaf0bg150c61137922" version="1">Frappe étourdissante : Feu</content>
   <content contentuid="h23949f09g6250gc872g6ae7gab3b84c92470" version="1">Souffle (Poison, Cône)</content>
   <content contentuid="h23b51794gb3cfgc094g47e7gd140d1f2b821" version="2">Invoquer l'Enfer : Punition</content>
-  <content contentuid="h23d20fc5g3de7g3667g55c9g7166d51f0458" version="1">Vague de ralliement</content>
   <content contentuid="h2430f6e5g5b9fgafd6g0c5bg49f27ca491c7" version="1">Lorsque vous effectuez une attaque avec une arme contre une créature interdite, toute attaque réussie devient un coup critique.</content>
   <content contentuid="h24752c9cgafa7gb590g6c7dg441e0aa6be93" version="1">Harmonisation élémentaire : Poussée</content>
   <content contentuid="h24a998dfg5bf2g9a27g79afgb7666d1547a7" version="2">Une influence extraterrestre a enlacé votre esprit de ses tentacules, vous conférant un pouvoir psionique. Vous pouvez désormais toucher d'autres esprits par la pensée et altérer la réalité. Ce pouvoir sera-t-il un phare d'espoir pour les autres, ou ferez-vous régner la terreur chez ceux qui subiront vos assauts mentaux ?</content>
@@ -716,7 +714,6 @@
   <content contentuid="h9023d5deg97dcgf252gcf46g5f6221eac34e" version="1">Augmentez une caractéristique au choix de 1 (maximum 20). Vous gagnez la maîtrise d'une compétence. Choisissez une compétence que vous maîtrisez déjà (mais sans Expertise) : vous gagnez l'Expertise dans cette compétence.</content>
   <content contentuid="h911847a4gf1a9gd5c7gcf1dge0020fa9b902" version="2">Arme spirituelle : Bénédiction du Dieu de la guerre</content>
   <content contentuid="h918eca09g904cgd34ag2fadgd2859496fe26" version="1">Lorsque vous lancez un sort de Divination avec un emplacement de niveau 2+, vous récupérez un emplacement de sort dépensé. Il doit être de niveau inférieur au sort lancé et ne peut dépasser le niveau 5.</content>
-  <content contentuid="h918f1f16gacf5gadd3gf100ge16acd754691" version="1">Envoyé de la chevalerie</content>
   <content contentuid="ha237430fg5f6bge755g69e5g55bb7aeacd68" version="2">Tactiques d'équipe</content>
   <content contentuid="h77e4d5f8g57bbg852ag5cb7ge822aef79939" version="2">Lorsque vous utilisez Récupération de groupe, chaque allié choisi bénéficie de l'Avantage sur les jets d'attaque et de sauvegarde jusqu'au début de votre prochain tour.</content>
   <content contentuid="h91a4efcfgcbebg77e9gbc6dg41bc63d1d14d" version="2">Lorsque vous utilisez l'action de Sprint, votre vitesse augmente de [1] pour cette action.</content>
@@ -2126,7 +2123,6 @@
   <content contentuid="h5e4e1fa4gf2e5gad4eg2cfcga149caed72d8" version="1">Vous invoquez une magie elfique appelée le Chant de la lame, à condition de ne porter ni armure ni bouclier.</content>
   <content contentuid="hdda722b6g7ff7g1492gb02agd399ba9301bf" version="2">Vous pouvez activer le Chant de la lame un nombre de fois égal à votre Intelligence. Utilisations restaurées après un Repos long. S'il ne vous en reste plus, vous pouvez dépenser une utilisation de Récupération arcanique pour l'activer.</content>
   <content contentuid="h5f8ed309g7e3cgb375g9ed6g47c2f1551e08" version="1">Une fois utilisé, vous devez terminer un Repos court ou long pour recommencer.</content>
-  <content contentuid="h6e7f6490g5ed0g546eg25a9ga5c01596c9eb" version="1">Résilience partagée</content>
   <content contentuid="h8aad144bga6abg6b39g91f2ga76f966f5341" version="1">Lorsqu'un allié visible à moins de [1] échoue à un jet de sauvegarde, vous pouvez utiliser votre Réaction pour dépenser une utilisation de votre capacité Indomptable : il peut relancer son jet avec un bonus égal à votre niveau de guerrier.</content>
   <content contentuid="h13fccf88g96afg814ag91f1g076c07004d96" version="9">Don : Adroit. Vous avez passé vos années de formation dans un scriptorium, un monastère ou une administration, apprenant à produire des textes parfaits. Vous possédez un sens aigu du détail qui vous évite toute erreur dans vos écrits.</content>
   <content contentuid="h1a99b856g2ca3g383fg5ca4g1aecbd9cb546" version="8">Don : Initiation à la magie (Clerc). Vous vous êtes dévoué au service d'un temple ou d'un bosquet sacré, officiant pour une divinité ou un panthéon. Grâce à l'instruction de votre mentor, vous avez appris à canaliser un fragment de puissance divine.</content>

@@ -66,7 +66,6 @@
 <content contentuid="h0017f790g8f2bg9a2cged1dg822c935f9562" version="1">Elementlerin Savaşçısı</content>
 <content contentuid="h0088e4aagaf1bg8847gd3c7g9e6ba6691ade" version="3">Her turda bir yaratığa vurduğunuzda, ek 1d6 Ölümcül, Zihinsel ya da Parlak (seçiminiz) hasar (seçiminiz) verebilir ve [2] kazanırsınız.</content>
 <content contentuid="h0089d036ga5d2g2ad4g5a69gb27fac03e9cd" version="1">Her zaman Avcı’nın İşareti büyüsünü hazırlanmış olarak taşırsınız. Bunu iki kez harcamadan büyü yuvası harcamadan atabilirsiniz ve bu yeteneğin tüm harcanan kullanımlarını Uzun Dinlenme sonunda geri kazanırsınız. 5. seviye Ranger seviyesine ulaştığınızda bu özelliğin 1 ek kullanımını kazanırsınız. 9. seviyede 4 kullanım kazanırsınız.</content>
-<content contentuid="h0139bcd7gba31g9628g0aa7g7269d709e082" version="2">Grup İyileştirme</content>
 <content contentuid="h01bf5454gf518g5a93g1ae3gad45fe737357" version="1">Geliştirilmiş Etkili Büyü Kullanımı</content>
 <content contentuid="h01da9083g978dg0d2cg06dfg8e6bb4a22fe9" version="2">Bu şekilde bir büyüyü değiştiremezsiniz eğer aynı turda 1+ seviyeli bir büyü zaten atmışsanız, ayrıca aynı turda bu şekilde bir büyü değiştirdikten sonra 1+ seviyeli bir büyü de atamazsınız.</content>
 <content contentuid="h021d82eag33b4g9375g4afdg2ee3433d7fda" version="1">Paladin ve yakınındaki müttefikler, Necrotic, Psychic ve Radiant hasara &lt;LSTag Tooltip="Resistant"&gt;Dayanıklılık&lt;/LSTag&gt; kazanır.</content>
@@ -241,7 +240,6 @@
 <content contentuid="h23934194g298egb01agaf0bg150c61137922" version="1">Şoklayıcı Darbe: Ateş</content>
 <content contentuid="h23949f09g6250gc872g6ae7gab3b84c92470" version="1">Nefes Silahı (Zehir, Konik)</content>
 <content contentuid="h23b51794gb3cfgc094g47e7gd140d1f2b821" version="2">Cehennemi Çağır: Ceza</content>
-<content contentuid="h23d20fc5g3de7g3667g55c9g7166d51f0458" version="1">Cesaret Dalgası</content>
 <content contentuid="h2430f6e5g5b9fgafd6g0c5bg49f27ca491c7" version="1">İlgili bir yaratığa bir silah saldırısı yaptığınızda, saldırı isabet ederse kritik vuruş olur.</content>
 <content contentuid="h24752c9cgafa7gb590g6c7dg441e0aa6be93" version="1">Elemental Bağlantı: İtme</content>
 <content contentuid="h24a998dfg5bf2g9a27g79afgb7666d1547a7" version="2">Yabancı bir etki zihninize sarılarak psionik güç verir. Artık başka zihinleri bu güçle dokunabilir ve dünyayı değiştirebilirsiniz. Bu güç başkalarına umut ışığı mı, yoksa onların aklını delip geçen bir dehşet mi olur?</content>
@@ -713,7 +711,6 @@
   <content contentuid="h9023d5deg97dcgf252gcf46g5f6221eac34e" version="1">Seçtiğiniz bir yetenek puanını 1 artırın, maksimum 20. Seçtiğiniz bir beceride yeterlilik kazanırsınız. Yeterliliğiniz olduğu ama Uzmanlık eksik olan bir beceriyi seçin. O beceride Uzmanlık kazanırsınız.</content>
   <content contentuid="h911847a4gf1a9gd5c7gcf1dge0020fa9b902" version="2">Manevi Silah: Savaş Tanrısının Lütfu</content>
   <content contentuid="h918eca09g904cgd34ag2fadgd2859496fe26" version="1">2. seviye veya daha yüksek bir büyü slotu kullanarak bir Kehanet büyüsü fırlattığınızda, harcanan slot seviyesinden daha düşük bir seviyede (maksimum 5) bir büyü slotu geri kazanırsınız.</content>
-  <content contentuid="h918f1f16gacf5gadd3gf100ge16acd754691" version="1">Şövalye Elçisi</content>
   <content contentuid="ha237430fg5f6bge755g69e5g55bb7aeacd68" version="2">Takım Taktikleri</content>
   <content contentuid="h77e4d5f8g57bbg852ag5cb7ge822aef79939" version="2">Grup İyileştirme kullandığınızda, seçtiğiniz her müttefikın saldırı atışları ve tasarruf atışları bir sonraki turun başlangıcına kadar Avantaj kazanır.</content>
   <content contentuid="h91a4efcfgcbebg77e9gbc6dg41bc63d1d14d" version="2">Koşu Eylemi yaptığınızda, hızınız [1] artar.</content>
@@ -2118,7 +2115,6 @@
   <content contentuid="h5e4e1fa4gf2e5gad4eg2cfcga149caed72d8" version="1">Elven bir büyü olan Kılıç Şarkısını çağırırsın, ancak zırh giymiş ya da Kalkan takmış olmamalısın.</content>
   <content contentuid="hdda722b6g7ff7g1492gb02agd399ba9301bf" version="2">Kılıç Şarkısını Zekâ düzenleyicinin (en az bir kez) kadar kez çağırabilirsin. Uzun dinlenme sonunda harcanan tüm kullanımlarını geri kazanırsın. Kullanımın kalmadıysa, bir Arkane İyileştirme kullanarak etkinleştirebilirsin.</content>
   <content contentuid="h5f8ed309g7e3cgb375g9ed6g47c2f1551e08" version="1">Bu yeteneği bir kez kullandıktan sonra Kısa ya da Uzun Dinlenme bitene kadar tekrar kullanamazsın.</content>
-  <content contentuid="h6e7f6490g5ed0g546eg25a9ga5c01596c9eb" version="1">Paylaşılan Dayanıklılık</content>
   <content contentuid="h8aad144bga6abg6b39g91f2ga76f966f5341" version="1">[1] menzilinde bir müttefikinin tasarruf atışı başarısız olursa, Tepkinle İnatçılık özelliğinin bir kullanımı harcayabilirsin. Müttefik hemen bir tasarruf atışı tekrar atar ve Fighter seviyene eşit bir bonus alır.</content>
   <content contentuid="h13fccf88g96afg814ag91f1g076c07004d96" version="9">Yetenek: Usta&lt;br&gt;&lt;br&gt;Bir skriptoriyumda, bilgi koruma manastırında ya da bir devlet dairesinde yıllarını geçirdin; el yazını net tutmayı ve güzel metinler üretmeyi öğrendin. Belki resmi belgeler yazdın ya da edebiyat tomlarını kopyaladın. Şiir, anlatı ya da akademik araştırma yazma becerisine sahip olabilirsin. En önemlisi, belgelere hata eklememek için ayrıntılara dikkat edersin.</content>
   <content contentuid="h1a99b856g2ca3g383fg5ca4g1aecbd9cb546" version="8">Yetenek: Büyü Başlatıcı (Rahip)&lt;br&gt;&lt;br&gt;Bir tapınağın hizmetine adadın; şehirde ya da kutsal bir korulukta. Orada bir tanrı ya da panteon onuruna ritüeller yaptın. Bir rahip altında hizmet ettin ve din çalıştın. Rahibin eğitimi ve kendi adanmışlığın sayesinde, ibadetin için biraz ilahi güç kanalize etmeyi ve ibadeti yapanların ibadet ettiği yere hizmet etmeyi öğrendin.</content>

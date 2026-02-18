@@ -66,7 +66,7 @@
   <content contentuid="h0017f790g8f2bg9a2cged1dg822c935f9562" version="1">Warrior of the Elements</content>
   <content contentuid="h0088e4aagaf1bg8847gd3c7g9e6ba6691ade" version="3">Once per turn when you hit a creature with your weapon, you can deal an extra 1d6 Necrotic, Psychic, or Radiant damage (your choice) to the creature, and you regain [2].</content>
   <content contentuid="h0089d036ga5d2g2ad4g5a69gb27fac03e9cd" version="1">You always have the Hunter’s Mark spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a Long Rest. When you reach Ranger level 5, you gain 1 additional use of this feature. At level 9, you gain 4 uses.</content>
-  <content contentuid="h0139bcd7gba31g9628g0aa7g7269d709e082" version="2">Group Recovery</content>
+  <content contentuid="h0139bcd7gba31g9628g0aa7g7269d709e082" version="3">Level 3: Group Recovery</content>
   <content contentuid="h01bf5454gf518g5a93g1ae3gad45fe737357" version="1">Improved Potent Spellcasting</content>
   <content contentuid="h01da9083g978dg0d2cg06dfg8e6bb4a22fe9" version="2">You can’t modify a spell in this way if you’ve already cast a level 1+ spell on the current turn, nor can you cast a level 1+ spell on this turn after modifying a spell in this way.</content>
   <content contentuid="h021d82eag33b4g9375g4afdg2ee3433d7fda" version="1">The paladin and any nearby allies have &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Necrotic, Psychic, and Radiant damage.</content>
@@ -245,7 +245,7 @@
   <content contentuid="h23934194g298egb01agaf0bg150c61137922" version="1">Stunning Strike: Fire</content>
   <content contentuid="h23949f09g6250gc872g6ae7gab3b84c92470" version="1">Breath Weapon (Poison, Cone)</content>
   <content contentuid="h23b51794gb3cfgc094g47e7gd140d1f2b821" version="2">Invoke Hell: Punishment</content>
-  <content contentuid="h23d20fc5g3de7g3667g55c9g7166d51f0458" version="1">Rallying Surge</content>
+  <content contentuid="h23d20fc5g3de7g3667g55c9g7166d51f0458" version="2">Level 7: Rallying Surge</content>
   <content contentuid="h2415bee7g247ag111dg256dg56cfbbea9677" version="2">Level 3: Hand of Healing</content>
   <content contentuid="h2430f6e5g5b9fgafd6g0c5bg49f27ca491c7" version="1">When you make a weapon attack against an interdicted creature, If the attack hits, it becomes a critical hit.</content>
   <content contentuid="h24752c9cgafa7gb590g6c7dg441e0aa6be93" version="1">Elemental Attunement: Push</content>
@@ -724,8 +724,8 @@
   <content contentuid="h9023d5deg97dcgf252gcf46g5f6221eac34e" version="1">Increase one ability score of your choice by 1, to a maximum of 20. You gain proficiency in one skill of your choice. Choose one skill in which you have proficiency but lack Expertise. You gain Expertise with that skill.</content>
   <content contentuid="h911847a4gf1a9gd5c7gcf1dge0020fa9b902" version="2">Spiritual Weapon: War God's Blessing</content>
   <content contentuid="h918eca09g904cgd34ag2fadgd2859496fe26" version="1">When you cast a Divination spell using a level 2+ spell slot, you regain one expended spell slot. The slot you regain must be of a level lower than the slot you expended and can’t be higher than level 5.</content>
-  <content contentuid="h918f1f16gacf5gadd3gf100ge16acd754691" version="1">Knightly Envoy</content>
-  <content contentuid="ha237430fg5f6bge755g69e5g55bb7aeacd68" version="2">Team Tactics</content>
+  <content contentuid="h918f1f16gacf5gadd3gf100ge16acd754691" version="2">Level 3: Knightly Envoy</content>
+  <content contentuid="ha237430fg5f6bge755g69e5g55bb7aeacd68" version="3">Level 7: Team Tactics</content>
   <content contentuid="h77e4d5f8g57bbg852ag5cb7ge822aef79939" version="2">When you use Group Recovery, each chosen ally has Advantage on attack rolls, and saving throws until the start of your next turn.</content>
   <content contentuid="h91a4efcfgcbebg77e9gbc6dg41bc63d1d14d" version="2">When you take the Dash Action, your Speed increases by [1] for that action.</content>
   <content contentuid="h91f4b14cg0b5fgd996ga45dg8657a7c363f6" version="1">You have &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="AnimalHandling"&gt;Animal Handling&lt;/LSTag&gt; and &lt;LSTag Tooltip="Persuasion"&gt;Persuasion&lt;/LSTag&gt;.</content>
@@ -2144,7 +2144,7 @@
   <content contentuid="h5e4e1fa4gf2e5gad4eg2cfcga149caed72d8" version="5">You gain a bonus to your AC equal to your Intelligence modifier, your Speed increases by [1], and you have Advantage on Acrobatics checks, you can use your Intelligence modifier in place of Strength or Dexterity for the attack and damage rolls of any weapon with which you are proficient, and when you make a Concentration saving throw, you can add your Intelligence modifier to the result.</content>
   <content contentuid="hdda722b6g7ff7g1492gb02agd399ba9301bf" version="4">You can invoke the Bladesong a number of times equal to your Intelligence modifier, and you regain all expended uses when you finish a Long Rest. You regain one expended use when you use Arcane Recovery.</content>
   <content contentuid="h5f8ed309g7e3cgb375g9ed6g47c2f1551e08" version="1">Once you use this ability, you can’t use it again until you finish a Short or Long Rest.</content>
-  <content contentuid="h6e7f6490g5ed0g546eg25a9ga5c01596c9eb" version="1">Shared Resilience</content>
+  <content contentuid="h6e7f6490g5ed0g546eg25a9ga5c01596c9eb" version="2">Level 10: Shared Resilience</content>
   <content contentuid="h8aad144bga6abg6b39g91f2ga76f966f5341" version="1">When an ally you can see within [1] of yourself fails a saving throw, you can take a Reaction to expend a use of your Indomitable feature. The ally can immediately reroll the saving throw with a bonus equal to your Fighter level.</content>
   <content contentuid="h13fccf88g96afg814ag91f1g076c07004d96" version="9">Feat: Skilled&lt;br&gt;&lt;br&gt;You spent formative years in a scriptorium, a monastery dedicated to the preservation of knowledge, or a government agency, where you learned to write with a clear hand and produce finely written texts. Perhaps you scribed government documents or copied tomes of literature. You might have some skill as a writer of poetry, narrative, or scholarly research. Above all, you have a careful attention to detail, helping you avoid introducing mistakes to the documents you copy and create.</content>
   <content contentuid="h1a99b856g2ca3g383fg5ca4g1aecbd9cb546" version="8">Feat: Magic Initiate (Cleric)&lt;br&gt;&lt;br&gt;You devoted yourself to service in a temple, either nestled in a town or secluded in a sacred grove. There you performed rites in honor of a god or pantheon. You served under a priest and studied religion. Thanks to your priest’s instruction and your own devotion, you also learned how to channel a modicum of divine power in service to your place of worship and the people who prayed there.</content>
@@ -2641,4 +2641,6 @@
   <content contentuid="h38613d06g0c61gde19gd3e4g603555e36f68" version="1">You spray spectral cards. Each creature in that area must make a Dexterity saving throw. On a failed save, a creature takes force damage and has the blinded condition until the end of its next turn. On a successful save, a creature takes half as much damage only.</content>
   <content contentuid="h074c63b2g3284geb4cg7b00gac0ee1ab3d55" version="1">The affected entity is immune to Poisons and being &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt; and its maximum &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; are increased by [1].</content>
   <content contentuid="h4f7778efg3f00g2abfg725ageefcbbb2a777" version="1">You and everyone around can't be poisoned, or frightened. Your &lt;LSTag Tooltip="HitPoints"&gt;HP&lt;/LSTag&gt; increases.</content>
+  <content contentuid="h0d1d903dg700fgfe2agc4caga440b83dee9f" version="2">Level 12: Inspiring Commander</content>
+  <content contentuid="hc3455881g7e11g41c1g7c4eg9242eeb80cbf" version="1">The area of effect for both Group Recovery and Rallying Surge is now a [1] Emanation. You have Immunity to the Charmed and Frightened conditions.</content>
 </contentList>

@@ -233,7 +233,6 @@
   <content contentuid="h23934194g298egb01agaf0bg150c61137922" version="1">Golpe aturdidor: Fuego</content>
   <content contentuid="h23949f09g6250gc872g6ae7gab3b84c92470" version="1">Arma de aliento (Veneno, Cono)</content>
   <content contentuid="h23b51794gb3cfgc094g47e7gd140d1f2b821" version="2">Invocar el infierno: Castigo</content>
-  <content contentuid="h23d20fc5g3de7g3667g55c9g7166d51f0458" version="1">Oleada de ánimo</content>
   <content contentuid="h2430f6e5g5b9fgafd6g0c5bg49f27ca491c7" version="1">Cuando haces un ataque con arma contra una criatura prohibida, si el ataque golpea, se convierte en un golpe crítico.</content>
   <content contentuid="h24752c9cgafa7gb590g6c7dg441e0aa6be93" version="1">Sintonía elemental: Empujar</content>
   <content contentuid="h24a998dfg5bf2g9a27g79afgb7666d1547a7" version="2">Una influencia alienígena ha envuelto sus zarcillos alrededor de tu mente, dándote poder psiónico. Ahora puedes tocar otras mentes con ese poder y alterar el mundo que te rodea. ¿Brillará este poder desde ti como un faro de esperanza para los demás? ¿O serás un terror para aquellos que sientan la puñalada de tu mente?</content>
@@ -698,7 +697,6 @@
   <content contentuid="h9023d5deg97dcgf252gcf46g5f6221eac34e" version="1">Aumenta una puntuación de característica de tu elección en 1, hasta un máximo de 20. Obtienes competencia en una habilidad de tu elección. Elige una habilidad en la que tengas competencia pero carezcas de Pericia. Obtienes Pericia con esa habilidad.</content>
   <content contentuid="h911847a4gf1a9gd5c7gcf1dge0020fa9b902" version="2">Arma espiritual: Bendición del dios de la guerra</content>
   <content contentuid="h918eca09g904cgd34ag2fadgd2859496fe26" version="1">Cuando lanzas un conjuro de Adivinación usando un espacio de conjuro de nivel 2+, recuperas un espacio de conjuro gastado. El espacio que recuperas debe ser de un nivel inferior al espacio que gastaste y no puede ser superior al nivel 5.</content>
-  <content contentuid="h918f1f16gacf5gadd3gf100ge16acd754691" version="1">Enviado caballeresco</content>
   <content contentuid="h91a4efcfgcbebg77e9gbc6dg41bc63d1d14d" version="2">Cuando realizas la acción de Correr, tu Velocidad aumenta en [1] para esa acción.</content>
   <content contentuid="h91f4b14cg0b5fgd996ga45dg8657a7c363f6" version="1">Tienes &lt;LSTag Tooltip="Proficiency"&gt;Competencia&lt;/LSTag&gt; en &lt;LSTag Tooltip="AnimalHandling"&gt;Trato con animales&lt;/LSTag&gt; y &lt;LSTag Tooltip="Persuasion"&gt;Persuasión&lt;/LSTag&gt;.</content>
   <content contentuid="h92494e1fg293aga95fg5efdg58fdff52d4e6" version="1">Los secretos de Asmodeo te permiten infundir tus sellos con poder manifiesto. Cuando quemas un sello para infligir daño a una criatura, puedes activar esta bendición (no se requiere acción) para añadir tu modificador de Carisma (mínimo de 1) a la tirada de daño de cada sello.</content>

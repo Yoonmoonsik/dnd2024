@@ -170,7 +170,6 @@
   <content contentuid="h23934194g298egb01agaf0bg150c61137922" version="1">Betäubungsschlag: Feuer</content>
   <content contentuid="h23949f09g6250gc872g6ae7gab3b84c92470" version="1">Atemwaffe (Gift, Kegel)</content>
   <content contentuid="h23b51794gb3cfgc094g47e7gd140d1f2b821" version="2">Hölle heraufbeschwören: Bestrafung</content>
-  <content contentuid="h23d20fc5g3de7g3667g55c9g7166d51f0458" version="1">Rallye-Welle</content>
   <content contentuid="h2430f6e5g5b9fgafd6g0c5bg49f27ca491c7" version="1">Wenn Sie einen Waffenangriff auf eine Kreatur ausführen, die auf dem Block sitzt, ist der Angriff ein kritischer Treffer.</content>
   <content contentuid="h24752c9cgafa7gb590g6c7dg441e0aa6be93" version="1">Elementare Abstimmung: Drücken</content>
   <content contentuid="h24a998dfg5bf2g9a27g79afgb7666d1547a7" version="2">Ein außerirdischer Einfluss hat deine Gedanken erfasst und dir psionische Kräfte verliehen. Du kannst nun andere mit dieser Kraft berühren und die Welt um dich herum verändern. Wird diese Kraft als Hoffnungsträger für andere ausstrahlen? Oder wirst du ein Schrecken für diejenigen sein, die deinen Verstand spüren?</content>
@@ -632,7 +631,6 @@
   <content contentuid="h9023d5deg97dcgf252gcf46g5f6221eac34e" version="1">Erhöhen Sie einen Fähigkeitswert Ihrer Wahl um 1 bis maximal 20. Sie erlangen Kompetenz in einer Fertigkeit Ihrer Wahl. Wählen Sie eine Fertigkeit, in der Sie Kompetenz haben, aber keine Expertise besitzen. Sie erlangen Expertise in dieser Fertigkeit.</content>
   <content contentuid="h911847a4gf1a9gd5c7gcf1dge0020fa9b902" version="2">Spirituelle Waffe: Gottes Segen für den Krieg</content>
   <content contentuid="h918eca09g904cgd34ag2fadgd2859496fe26" version="1">Wenn du einen Weissagungszauber mit einem Zauberplatz der Stufe 2+ wirkst, erhältst du einen verbrauchten Zauberplatz zurück. Der zurückerhaltene Platz muss eine niedrigere Stufe haben als der verbrauchte und darf nicht höher als Stufe 5 sein.</content>
-  <content contentuid="h918f1f16gacf5gadd3gf100ge16acd754691" version="1">Ritterlicher Gesandter</content>
   <content contentuid="h91a4efcfgcbebg77e9gbc6dg41bc63d1d14d" version="2">Wenn Sie die Dash-Aktion ausführen, erhöht sich Ihre Geschwindigkeit für diese Aktion um [1].</content>
   <content contentuid="h91f4b14cg0b5fgd996ga45dg8657a7c363f6" version="1">Du hast  &lt;LSTag Tooltip="Proficiency"&gt;Kompetenz&lt;/LSTag&gt; In  &lt;LSTag Tooltip="AnimalHandling"&gt;Umgang mit Tieren&lt;/LSTag&gt; Und  &lt;LSTag Tooltip="Persuasion"&gt;Überzeugung&lt;/LSTag&gt;. </content>
   <content contentuid="h92494e1fg293aga95fg5efdg58fdff52d4e6" version="1">Asmodeus’ Geheimnisse ermöglichen es dir, deine Siegel mit manifester Macht zu erfüllen. Wenn du ein oder mehrere Siegel verbrennst, um einer Kreatur Schaden zuzufügen, kannst du diesen Vorteil aktivieren (keine Aktion erforderlich), um deinen Charisma-Modifikator (mindestens 1) zum Schadenswurf jedes Siegels hinzuzufügen.</content>
