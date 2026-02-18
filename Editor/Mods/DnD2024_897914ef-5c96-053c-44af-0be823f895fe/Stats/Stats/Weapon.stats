@@ -1122,8 +1122,9 @@
         <field name="UUID" type="IdTableFieldDefinition" value="8233937b-76b1-446e-8c32-211fbbe98985" />
         <field name="Name" type="NameTableFieldDefinition" value="MAG_PHB_OfSpeed_Scimitar" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="4446377c-2a0a-492d-a908-b55e8d6cf943" />
-        <field name="BoostsOnEquipMainHand" type="StringTableFieldDefinition" value="UnlockSpell(Shout_MAG_WhirlwindAttack)" />
+        <field name="BoostsOnEquipMainHand" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
         <field name="UseCosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_MAG_PHB_ScimitarOfSpeed_BonusAttack);UnlockSpell(Shout_MAG_WhirlwindAttack);" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
