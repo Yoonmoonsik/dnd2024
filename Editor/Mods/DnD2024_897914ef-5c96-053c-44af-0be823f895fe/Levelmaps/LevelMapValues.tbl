@@ -3,6 +3,13 @@
   <stat_objects>
     <stat_object is_substat="false">
       <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="UnarmedFighting" />
+        <field name="UUID" type="IdTableFieldDefinition" value="88ea5dc9-f8c5-4079-af91-c048022f62e7" />
+        <field name="Level1" type="StringTableFieldDefinition" value="1d6" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="Name" type="NameTableFieldDefinition" value="Shillelagh" />
         <field name="UUID" type="IdTableFieldDefinition" value="b4b80ceb-73bc-40a9-9c8e-682a7366696f" />
         <field name="Level1" type="StringTableFieldDefinition" value="1d8" />

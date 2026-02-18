@@ -122,13 +122,6 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
-        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_19" />
-        <field name="UUID" type="IdTableFieldDefinition" value="7aadd5cf-d704-44f9-8450-3532a8155c06" />
-        <field name="Text" type="TranslatedStringTableFieldDefinition" handle="ha82530f4g9f81g1be2g83c9g485e09fa6aac" version="7" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="false">
-      <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_5" />
         <field name="UUID" type="IdTableFieldDefinition" value="03eb5a80-8256-4d33-8655-de4b9e9506ae" />
         <field name="Text" type="TranslatedStringTableFieldDefinition" handle="h5ab2d666gb6ddg5206g7133g276f320f8fde" version="1" />
