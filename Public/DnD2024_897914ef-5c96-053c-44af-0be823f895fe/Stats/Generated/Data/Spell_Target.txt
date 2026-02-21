@@ -10537,7 +10537,6 @@ data "Icon" "Artificer_Plans_Defense_Shield"
 data "DisplayName" "h951c5d8fg2a6ag18b5gdeedgf74ef6e5697c;1"
 data "Description" "h2197f6b1g95fagc8fdg1f4egdcb07ae63376;1"
 data "TooltipStatusApply" "ApplyStatus(ARTIFICER_MAGIC_SHIELD,100,-1)"
-data "UseCosts" ""
 
 new entry "Target_Artificer_Plans_Defense_MindSharpener"
 type "SpellData"

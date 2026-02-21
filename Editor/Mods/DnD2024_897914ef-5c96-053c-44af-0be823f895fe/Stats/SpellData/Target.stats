@@ -12619,7 +12619,6 @@
         <field name="SpellProperties" type="StringTableFieldDefinition" value="IF(not ClassLevelHigherOrEqualThan(10,'Artificer',context.Source)):ApplyStatus(ARTIFICER_MAGIC_SHIELD,100,-1);IF(ClassLevelHigherOrEqualThan(10,'Artificer',context.Source)):ApplyStatus(ARTIFICER_MAGIC_SHIELD_2,100,-1);" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Item() or (Ally() and HasShieldEquipped(context.Target));" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(ARTIFICER_MAGIC_SHIELD,100,-1)" />
-        <field name="UseCosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h951c5d8fg2a6ag18b5gdeedgf74ef6e5697c" version="1" />
         <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_Artificer_Plans_Defense_Plans" />
         <field name="Icon" type="StringTableFieldDefinition" value="Artificer_Plans_Defense_Shield" />
