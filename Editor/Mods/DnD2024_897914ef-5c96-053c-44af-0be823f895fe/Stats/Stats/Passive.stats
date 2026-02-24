@@ -3818,7 +3818,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hdbba9c54g9f89g1845gea12gd6ec3c05b47c" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h6b6185b5g0704g72e5gb52dg878fad5728a8" version="1" />
         <field name="ExtraDescription" type="TranslatedStringTableFieldDefinition" handle="hcb6cb63ag6ce8g8346g80b7g730e6c95b6f6" version="1" />
-        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_CharlatanTrick);ActionResource(CharlatanTrickCharge,2,0);IF(CharacterLevelGreaterThan(4)):ActionResource(CharlatanTrickCharge,1,0);IF(CharacterLevelGreaterThan(8)):ActionResource(CharlatanTrickCharge,1,0);IF(CharacterLevelGreaterThan(11)):ActionResource(CharlatanTrickCharge,1,0);Skill(Deception,IntelligenceModifier);" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_CharlatanTrick);ActionResource(CharlatanTrickCharge,2,0);IF(CharacterLevelGreaterThan(4)):ActionResource(CharlatanTrickCharge,1,0);IF(CharacterLevelGreaterThan(8)):ActionResource(CharlatanTrickCharge,1,0);IF(CharacterLevelGreaterThan(11)):ActionResource(CharlatanTrickCharge,1,0);IF(AbilityGreaterThan('Intelligence',10,context.Source)):Skill(Deception,IntelligenceModifier);" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

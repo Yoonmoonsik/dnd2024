@@ -2774,7 +2774,7 @@ using "Performer"
 data "DisplayName" "hdbba9c54g9f89g1845gea12gd6ec3c05b47c;1"
 data "Description" "h6b6185b5g0704g72e5gb52dg878fad5728a8;1"
 data "ExtraDescription" "hcb6cb63ag6ce8g8346g80b7g730e6c95b6f6;1"
-data "Boosts" "UnlockSpell(Target_CharlatanTrick);ActionResource(CharlatanTrickCharge,2,0);IF(CharacterLevelGreaterThan(4)):ActionResource(CharlatanTrickCharge,1,0);IF(CharacterLevelGreaterThan(8)):ActionResource(CharlatanTrickCharge,1,0);IF(CharacterLevelGreaterThan(11)):ActionResource(CharlatanTrickCharge,1,0);Skill(Deception,IntelligenceModifier);"
+data "Boosts" "UnlockSpell(Target_CharlatanTrick);ActionResource(CharlatanTrickCharge,2,0);IF(CharacterLevelGreaterThan(4)):ActionResource(CharlatanTrickCharge,1,0);IF(CharacterLevelGreaterThan(8)):ActionResource(CharlatanTrickCharge,1,0);IF(CharacterLevelGreaterThan(11)):ActionResource(CharlatanTrickCharge,1,0);IF(AbilityGreaterThan('Intelligence',10,context.Source)):Skill(Deception,IntelligenceModifier);"
 
 new entry "Illusion_Disappear"
 type "PassiveData"
