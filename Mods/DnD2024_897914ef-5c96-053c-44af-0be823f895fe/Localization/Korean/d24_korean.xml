@@ -2643,4 +2643,6 @@
 <content contentuid="h4f7778efg3f00g2abfg725ageefcbbb2a777" version="1">자신과 주변의 모두가 중독, 겁에 질림 상태가 되지 않게되고, &lt;LSTag Tooltip="HitPoints"&gt;생명력&lt;/LSTag&gt;이 상승합니다.</content>
 <content contentuid="h0d1d903dg700fgfe2agc4caga440b83dee9f" version="2">레벨 12: 고무적인 사령관</content>
 <content contentuid="hc3455881g7e11g41c1g7c4eg9242eeb80cbf" version="1">분대 회복과 고양 폭증의 거리가 [1]로 증가합니다. 매혹과 겁에 질림 상태에 면역이 됩니다.</content>
+<content contentuid="h6eafeb79gbb00gf0e6g9f2egd1e44b3d28ca" version="1">비어 있는 주문</content>
+<content contentuid="h3a130d38gd1ffg6afbg36e3gf2f86d97cfe8" version="1">이 주문은 레벨업 진행을 위해 존재하는 형식적인 선택지입니다. 이미 알고 있는 주문으로 인해 레벨업이 차단되는 문제를 방지하기 위한 더미 주문이며, 어떠한 효과도 제공하지 않습니다.</content>
 </contentList>

@@ -182,6 +182,55 @@
         <field name="UseCosts" type="StringTableFieldDefinition" value="Movement:4.5;" />
       </fields>
     </stat_object>
+    <stat_object color="#FF000000" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="aa504f63-123c-4344-b03b-e25d1d4afa14" />
+        <field name="Name" type="NameTableFieldDefinition" value="DummySpells" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3387cc6d-2add-40e7-b56f-7aec8c79219c" />
+        <field name="Name" type="NameTableFieldDefinition" value="DummySpells_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6eafeb79gbb00gf0e6g9f2egd1e44b3d28ca" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h3a130d38gd1ffg6afbg36e3gf2f86d97cfe8" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="90832759-186a-4ad0-951f-f0abf418ff3d" />
+        <field name="Name" type="NameTableFieldDefinition" value="DummySpells_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="3387cc6d-2add-40e7-b56f-7aec8c79219c" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6526c1ba-7770-41d6-9328-49d6986ef85b" />
+        <field name="Name" type="NameTableFieldDefinition" value="DummySpells_C" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="3387cc6d-2add-40e7-b56f-7aec8c79219c" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="419ea238-7d35-47f4-a166-1a2564d54b98" />
+        <field name="Name" type="NameTableFieldDefinition" value="DummySpells_D" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="3387cc6d-2add-40e7-b56f-7aec8c79219c" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="bf69a922-35a7-4a88-b91b-b1fb5b075e43" />
+        <field name="Name" type="NameTableFieldDefinition" value="DummySpells_E" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="3387cc6d-2add-40e7-b56f-7aec8c79219c" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="71d50c0e-0111-4af0-9fe8-94cbb5c227c6" />
+        <field name="Name" type="NameTableFieldDefinition" value="DummySpells_F" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="3387cc6d-2add-40e7-b56f-7aec8c79219c" />
+      </fields>
+    </stat_object>
     <stat_object color="#FF4169E1" is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="eeaaa237-0d71-42eb-bda6-5bbfd62447ce" />

@@ -2643,4 +2643,6 @@
   <content contentuid="h4f7778efg3f00g2abfg725ageefcbbb2a777" version="1">You and everyone around can't be poisoned, or frightened. Your &lt;LSTag Tooltip="HitPoints"&gt;HP&lt;/LSTag&gt; increases.</content>
   <content contentuid="h0d1d903dg700fgfe2agc4caga440b83dee9f" version="2">Level 12: Inspiring Commander</content>
   <content contentuid="hc3455881g7e11g41c1g7c4eg9242eeb80cbf" version="1">The area of effect for both Group Recovery and Rallying Surge is now a [1] Emanation. You have Immunity to the Charmed and Frightened conditions.</content>
+  <content contentuid="h6eafeb79gbb00gf0e6g9f2egd1e44b3d28ca" version="1">Dummy Spell</content>
+  <content contentuid="h3a130d38gd1ffg6afbg36e3gf2f86d97cfe8" version="1">This spell has no magical effect. It is a system placeholder used to allow level-up progression when a spell choice is required.</content>
 </contentList>

@@ -2015,7 +2015,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="Wizard Divination Savant"/>
-                    <attribute id="Spells" type="LSString" value="Target_TrueStrike;Target_MindSpike;Shout_SeeInvisibility;Target_ArcaneEye"/>
+                    <attribute id="Spells" type="LSString" value="Target_TrueStrike;Target_MindSpike;Shout_SeeInvisibility;Target_ArcaneEye;Shout_DummySpells_A;Shout_DummySpells_B;Shout_DummySpells_C;Shout_DummySpells_D;Shout_DummySpells_E;Shout_DummySpells_F"/>
                     <attribute id="UUID" type="guid" value="8e445849-3d0f-4cce-8f9c-b162e3e03ba2"/>
                 </node>
                 <node id="SpellList">

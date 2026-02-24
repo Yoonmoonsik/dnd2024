@@ -151,6 +151,41 @@ data "SpellType" "Shout"
 using "Shout_SeeInvisibility_Seek"
 data "UseCosts" "Movement:4.5;"
 
+new entry "Shout_DummySpells"
+type "SpellData"
+data "SpellType" "Shout"
+
+new entry "Shout_DummySpells_A"
+type "SpellData"
+data "SpellType" "Shout"
+data "DisplayName" "h6eafeb79gbb00gf0e6g9f2egd1e44b3d28ca;1"
+data "Description" "h3a130d38gd1ffg6afbg36e3gf2f86d97cfe8;1"
+
+new entry "Shout_DummySpells_B"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_DummySpells_A"
+
+new entry "Shout_DummySpells_C"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_DummySpells_A"
+
+new entry "Shout_DummySpells_D"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_DummySpells_A"
+
+new entry "Shout_DummySpells_E"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_DummySpells_A"
+
+new entry "Shout_DummySpells_F"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_DummySpells_A"
+
 new entry "Shout_YMS_Spell_From_Item"
 type "SpellData"
 data "SpellType" "Shout"

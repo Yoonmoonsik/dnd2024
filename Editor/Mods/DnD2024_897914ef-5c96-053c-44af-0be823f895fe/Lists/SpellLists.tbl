@@ -2778,7 +2778,7 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="8e445849-3d0f-4cce-8f9c-b162e3e03ba2" />
         <field name="Name" type="NameTableFieldDefinition" value="Wizard Divination Savant" />
-        <field name="Spells" type="StringTableFieldDefinition" value="Target_TrueStrike;Target_MindSpike;Shout_SeeInvisibility;Target_ArcaneEye" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_TrueStrike;Target_MindSpike;Shout_SeeInvisibility;Target_ArcaneEye;Shout_DummySpells_A;Shout_DummySpells_B;Shout_DummySpells_C;Shout_DummySpells_D;Shout_DummySpells_E;Shout_DummySpells_F" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
