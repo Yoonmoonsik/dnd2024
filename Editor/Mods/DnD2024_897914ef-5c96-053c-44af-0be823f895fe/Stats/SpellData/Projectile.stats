@@ -8,7 +8,6 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="dc75f60c-beac-4588-a14a-43834eeb8f8f" />
         <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsAttack;HasHighGroundRangeExtension;RangeIgnoreVerticalThreshold;IsHarmful;CanDualWield;NoCameraMove" enumeration_type_name="SpellFlagList" version="1" />
         <field name="DualWieldingUseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1;CrossbowLoadingOffHand:1;" />
-        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('SG_Polymorph_BeastShape');" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -20,7 +19,6 @@
         <field name="DualWieldingUseCosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
         <field name="DualWieldingSpellAnimation" type="CastAnimationsTableFieldDefinition" clear_inherited_value="true" value=",,;,,;;,,;,,;,,;,,;,,;,," />
         <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsAttack;HasHighGroundRangeExtension;RangeIgnoreVerticalThreshold;IsHarmful;NoCameraMove" enumeration_type_name="SpellFlagList" version="1" />
-        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('SG_Polymorph_BeastShape');" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -34,16 +32,6 @@
         <field name="TooltipDamageList" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
         <field name="AlternativeCastTextEvents" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
         <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsAttack;HasHighGroundRangeExtension;RangeIgnoreVerticalThreshold;IsHarmful;NoCameraMove" enumeration_type_name="SpellFlagList" version="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="false">
-      <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="cff06719-32a6-40ed-9fce-a1b0f1bdf6ff" />
-        <field name="Name" type="NameTableFieldDefinition" value="OffhandAttack" />
-        <field name="Using" type="BaseClassTableFieldDefinition" value="fc76ba39-5bb7-4d3c-9ff0-9460ade43e2a" />
-        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerTurn" enumeration_type_name="CooldownType" version="1" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:DealDamage(OffhandRangedWeapon, OffhandRangedWeaponDamageType);GROUND:ExecuteWeaponFunctors(OffHand);" />
-        <field name="RequirementConditions" type="StringTableFieldDefinition" value="not HasStatus('SG_Polymorph_BeastShape');" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2950,6 +2938,15 @@
         <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;HasSomaticComponent;IsSpell;HasHighGroundRangeExtension;RangeIgnoreVerticalThreshold;IsHarmful;CanAreaDamageEvade" enumeration_type_name="SpellFlagList" version="1" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:SurfaceChange(Ignite);GROUND:SurfaceChange(Melt);GROUND:CreateSurface(6,1,Fire);" />
         <field name="RechargeValues" type="StringTableFieldDefinition" value="6" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cff06719-32a6-40ed-9fce-a1b0f1bdf6ff" />
+        <field name="Name" type="NameTableFieldDefinition" value="OffhandAttack" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fc76ba39-5bb7-4d3c-9ff0-9460ade43e2a" />
+        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerTurn" enumeration_type_name="CooldownType" version="1" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:DealDamage(OffhandRangedWeapon, OffhandRangedWeaponDamageType);GROUND:ExecuteWeaponFunctors(OffHand);" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
