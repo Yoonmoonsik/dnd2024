@@ -3939,7 +3939,7 @@ data "TooltipUseCosts" "SecondWindCharge:1"
 data "Icon" "Skill_Fighter_SecondWind"
 data "Properties" "Highlighted;ForceShowInCC"
 data "StatsFunctorContext" "OnCast"
-data "Conditions" "SpellId('Shout_SecondWind')"
+data "Conditions" "SpellId('Shout_SecondWind') or SpellId('Shout_SecondWindPlayer');"
 data "StatsFunctors" "ApplyStatus(SELF,INSPIRING_MOVEMENT,100,1)"
 
 new entry "SecondWindRestore"

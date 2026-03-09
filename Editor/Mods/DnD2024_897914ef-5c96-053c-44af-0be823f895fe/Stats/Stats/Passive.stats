@@ -5479,7 +5479,7 @@
         <field name="Icon" type="StringTableFieldDefinition" value="Skill_Fighter_SecondWind" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted;ForceShowInCC" enumeration_type_name="PassiveFlags" version="1" />
         <field name="StatsFunctorContext" type="EnumerationListTableFieldDefinition" value="OnCast" enumeration_type_name="StatsFunctorContext" version="1" />
-        <field name="Conditions" type="StringTableFieldDefinition" value="SpellId('Shout_SecondWind')" />
+        <field name="Conditions" type="StringTableFieldDefinition" value="SpellId('Shout_SecondWind') or SpellId('Shout_SecondWindPlayer');" />
         <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(SELF,INSPIRING_MOVEMENT,100,1)" />
         <field name="TooltipUseCosts" type="StringTableFieldDefinition" value="SecondWindCharge:1" />
       </fields>
