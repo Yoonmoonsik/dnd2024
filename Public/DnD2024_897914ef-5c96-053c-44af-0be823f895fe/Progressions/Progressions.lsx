@@ -769,7 +769,8 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="5"/>
                     <attribute id="Name" type="LSString" value="Cartographer"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Cartographer_5_GuidedPrecision"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Cartographer_5_GuidedPrecision;Cartographer_5_IlluminatedCartography"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="Cartographer_3_IlluminatedCartography"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(8b5b64ac-d899-44f1-9899-f952adadb1b9,,,,AlwaysPrepared);"/>
                     <attribute id="TableUUID" type="guid" value="bc04f936-3b6c-4699-816c-83f95bb86720"/>

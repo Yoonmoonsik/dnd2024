@@ -1007,7 +1007,8 @@
         <field name="Level" type="ByteTableFieldDefinition" value="5" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
         <field name="Selectors" type="StringTableFieldDefinition" value="AddSpells(8b5b64ac-d899-44f1-9899-f952adadb1b9,,,,AlwaysPrepared);" />
-        <field name="PassivesAdded" type="StringTableFieldDefinition" value="Cartographer_5_GuidedPrecision" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="Cartographer_5_GuidedPrecision;Cartographer_5_IlluminatedCartography" />
+        <field name="PassivesRemoved" type="StringTableFieldDefinition" value="Cartographer_3_IlluminatedCartography" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

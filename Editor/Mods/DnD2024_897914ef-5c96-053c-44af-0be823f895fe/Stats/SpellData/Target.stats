@@ -5579,7 +5579,73 @@
         <field name="Name" type="NameTableFieldDefinition" value="FaerieFire_Cartographer" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="acc6ef54-f080-41d7-a12d-ccb820856e75" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;IlluminatedCartography:1" />
-        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;IsConcentration;IsHarmful;RangeIgnoreVerticalThreshold" enumeration_type_name="SpellFlagList" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="836d06c8-175c-4d03-bb2c-6587a6834f9b" />
+        <field name="Name" type="NameTableFieldDefinition" value="FaerieFire_Cartographer_Cost" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="15886e95-592a-41b4-92f1-30c74218e9b4" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;IsHarmful;RangeIgnoreVerticalThreshold" enumeration_type_name="SpellFlagList" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0adaf63c-44a2-43bf-9c96-a2fa9a6cffc4" />
+        <field name="Name" type="NameTableFieldDefinition" value="FaerieFire_Cartographer_Concentration" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="15886e95-592a-41b4-92f1-30c74218e9b4" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;IsHarmful;RangeIgnoreVerticalThreshold" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;SpellSlotsGroup:1:1:1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cc7ac5e1-db9d-42a7-b082-f96e17a2f97f" />
+        <field name="Name" type="NameTableFieldDefinition" value="FaerieFire_Cartographer_Concentration_2" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="0adaf63c-44a2-43bf-9c96-a2fa9a6cffc4" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;SpellSlotsGroup:1:1:2" />
+        <field name="PowerLevel" type="IntegerTableFieldDefinition" value="2" />
+        <field name="RootSpellID" type="StringTableFieldDefinition" value="Target_FaerieFire_Cartographer_Concentration" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c449e2fd-70c5-4bf7-b039-4865d7ccb2f3" />
+        <field name="Name" type="NameTableFieldDefinition" value="FaerieFire_Cartographer_Concentration_3" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="0adaf63c-44a2-43bf-9c96-a2fa9a6cffc4" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;SpellSlotsGroup:1:1:3" />
+        <field name="PowerLevel" type="IntegerTableFieldDefinition" value="3" />
+        <field name="RootSpellID" type="StringTableFieldDefinition" value="Target_FaerieFire_Cartographer_Concentration" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c3a8f9c2-9231-4ab9-aaae-da8174238f7f" />
+        <field name="Name" type="NameTableFieldDefinition" value="FaerieFire_Cartographer_Concentration_4" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="0adaf63c-44a2-43bf-9c96-a2fa9a6cffc4" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;SpellSlotsGroup:1:1:4" />
+        <field name="PowerLevel" type="IntegerTableFieldDefinition" value="4" />
+        <field name="RootSpellID" type="StringTableFieldDefinition" value="Target_FaerieFire_Cartographer_Concentration" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a97ec0e1-227c-4005-a399-3da8f43e82dd" />
+        <field name="Name" type="NameTableFieldDefinition" value="FaerieFire_Cartographer_Concentration_5" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="0adaf63c-44a2-43bf-9c96-a2fa9a6cffc4" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;SpellSlotsGroup:1:1:5" />
+        <field name="PowerLevel" type="IntegerTableFieldDefinition" value="5" />
+        <field name="RootSpellID" type="StringTableFieldDefinition" value="Target_FaerieFire_Cartographer_Concentration" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="004dad3a-7f93-41dc-9bc0-35241c414b81" />
+        <field name="Name" type="NameTableFieldDefinition" value="FaerieFire_Cartographer_Concentration_6" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="0adaf63c-44a2-43bf-9c96-a2fa9a6cffc4" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1;SpellSlotsGroup:1:1:6" />
+        <field name="PowerLevel" type="IntegerTableFieldDefinition" value="6" />
+        <field name="RootSpellID" type="StringTableFieldDefinition" value="Target_FaerieFire_Cartographer_Concentration" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

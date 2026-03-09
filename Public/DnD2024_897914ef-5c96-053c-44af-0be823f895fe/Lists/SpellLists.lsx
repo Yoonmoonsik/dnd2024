@@ -225,7 +225,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="Cartographer SLevel 1"/>
-                    <attribute id="Spells" type="LSString" value="Target_FaerieFire;Projectile_GuidingBolt;Target_HealingWord;Target_FaerieFire_Cartographer;Target_PortalJump"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_GuidingBolt;Target_HealingWord;Target_PortalJump"/>
                     <attribute id="UUID" type="guid" value="de2e3bbe-322d-4c95-8ad3-fa38c89ff258"/>
                 </node>
                 <node id="SpellList">

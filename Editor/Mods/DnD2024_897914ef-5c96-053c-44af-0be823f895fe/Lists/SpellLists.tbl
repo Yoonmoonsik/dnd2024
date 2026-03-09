@@ -312,7 +312,7 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="de2e3bbe-322d-4c95-8ad3-fa38c89ff258" />
         <field name="Name" type="NameTableFieldDefinition" value="Cartographer SLevel 1" />
-        <field name="Spells" type="StringTableFieldDefinition" value="Target_FaerieFire;Projectile_GuidingBolt;Target_HealingWord;Target_FaerieFire_Cartographer;Target_PortalJump" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Projectile_GuidingBolt;Target_HealingWord;Target_PortalJump" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
