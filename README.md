@@ -128,7 +128,7 @@ If you choose a newly added background, you gain a spell that can be used once p
 - Spellfire Initiate (Feat: Spellfire Spark)
 - Zhentarim Mercenary (Feat: Zhentarim Ruffian)
 
-## Backgrounds from from *The Crooked Moon*
+## Backgrounds from *The Crooked Moon*
 - Amnesiac (Feat: Memory Starved)
 - Crimson Aspirant (Feat: Crimson Ritualist)
 - Crossroads Gambler (Feat: Fate Gambler)
@@ -188,7 +188,7 @@ Choose **Dhampir** from the list of **Versatile** passives available to **Humans
 - Level 5: Draconic Flight
   - You can channel draconic magic to give yourself temporary flight. As a Bonus Action, you sprout spectral wings on your back that last for 10 minutes or until you retract the wings (no action required) or have the Incapacitated condition. During that time, you have a Fly Speed equal to your Speed. Your wings appear to be made of the same energy as your Breath Weapon. Once you use this trait, you can't use it again until you finish a Long Rest.
 - Level 5: Draconic Warding
-  - You can channel your draconic energy to protect yourself. For 1 minute, you become immune to the damage type associated with your Draconic Ancestry. Once you use this trait, you can't do so again until you finish a long rest.
+  - You can channel your draconic energy to protect yourself. For 1 minute, you become immune to the damage type associated with your Draconic Ancestry. Once you use this trait, you can't do so again until you finish a Long Rest.
 
 ## Drow
 - Level 1: Keen Senses
@@ -301,7 +301,7 @@ Choose **Kalashtar** from the list of **Versatile** passives available to **Huma
 - Level 10: Expanded Replication
   - You have learned arcane plans that you use to make magic items.
 - Level 11: Spell-Storing Item
-  - You can store one 1st- to 3rd-level artificer spell into a weapon or spellcasting focus that a humanoid creature can wear. A creature holding this item can use an action to cast the stored spell. Only one such spell-storing item can be held by a creature at a time. You can use this ability a number of times equal to your Intelligence modifier (minimum of once), and you regain all uses after a long rest.
+  - You can store one 1st- to 3rd-level artificer spell into a weapon or spellcasting focus that a humanoid creature can wear. A creature holding this item can use an action to cast the stored spell. Only one such spell-storing item can be held by a creature at a time. You can use this ability a number of times equal to your Intelligence modifier (minimum of once), and you regain all uses after a Long Rest.
 
 ### Alchemist
 
@@ -314,13 +314,13 @@ Choose **Kalashtar** from the list of **Versatile** passives available to **Huma
   - Level 5: Flaming Sphere, Melf's Acid Arrow
   - Level 9: Stinking Cloud, Mass Healing Word
 - Level 3: Experimental Potion ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Resources/1_Normal_48/ExperimentalElixir.png?raw=true)
-  - You can create Potions. Any Potions remaining after a long rest disappear, and Potions can be consumed by yourself or given to others as a bonus action. Additionally, you can use a spell slot to create an additional Potion as a magic action, in which case you choose the effect directly. The number of Potions you can create after a long rest increases as you reach certain artificer levels: 3 at level 5, 4 at level 9, and 5 at level 12.
+  - You can create Potions. Any Potions remaining after a Long Rest disappear, and Potions can be consumed by yourself or given to others as a Bonus Action. Additionally, you can use a spell slot to create an additional Potion as a magic action, in which case you choose the effect directly. The number of Potions you can create after a Long Rest increases as you reach certain artificer levels: 3 at level 5, 4 at level 9, and 5 at level 12.
 - Level 5: Alchemical Savant
-  - When you cast a Alchemist spell, you add your Intelligence modifier (minimum +1) to the roll that restores hit points or deals acid, fire, necrotic, or poison damage.
+  - When you cast an Alchemist spell, you add your Intelligence modifier (minimum +1) to the roll that restores Hit Points or deals acid, fire, necrotic, or poison damage.
 - Level 9: Restorative Reagents: Fortify
-  - A creature who drinks an Potion you create gains 15 temporary hit points.
+  - A creature who drinks a Potion you create gains 15 temporary Hit Points.
 - Level 9: Restorative Reagents: Restore
-  - You always have the Lesser Restoration spell prepared and can cast it without expending a spell slot. You can use this ability a number of times equal to your Intelligence modifier (minimum of once), and all uses are restored after a long rest.
+  - You always have the Lesser Restoration spell prepared and can cast it without expending a spell slot. You can use this ability a number of times equal to your Intelligence modifier (minimum of once), and all uses are restored after a Long Rest.
 - Level 11: Chemical Mastery
   - Alchemical Eruption: When you cast an Artificer spell that deals Acid, Fire, Necrotic, or Poison damage to a target, you can also deal 1d6 Force damage to that target.
   - Chemical Resistance: You gain resistance to Acid damage and Poison damage.
@@ -336,15 +336,15 @@ Choose **Kalashtar** from the list of **Versatile** passives available to **Huma
   - Level 5: Mirror Image, Shatter
   - Level 9: Hypnotic Pattern, Lightning Bolt
 - Level 3: Arcane Armor
-  - Customize your Arcane Armor by choosing one of three models: Dreadnaught, Guardian, or Infiltrator. Each model grants you unique benefits while you wear the armor. In addition, every model includes a special weapon that allows you to use your Intelligence modifier for attack and damage rolls. You can change the armor's model whenever you finish a short or long rest.
+  - Customize your Arcane Armor by choosing one of three models: Dreadnaught, Guardian, or Infiltrator. Each model grants you unique benefits while you wear the armor. In addition, every model includes a special weapon that allows you to use your Intelligence modifier for attack and damage rolls. You can change the armor's model whenever you finish a short or Long Rest.
   - Armor Model: Dreadnaught
-    - Dreadnaught is an armor model designed to make you a powerful force in battle, featuring an Armor Flail weapon with reach that deals 1d10 Force damage plus your ability modifier, the ability to enlarge your armor for 1 minute to increase your reach and size as a bonus action, and the option to push or pull smaller creatures up to 10 feet when you hit them with the flail.
-    - When you reach 11th level as an artificer, your Armor Flail deals 2d6 Fiorce damage. Additionally, when you use your Giant Stature, your reach increases by 10 feet, and you gain a flying speed equal to your walking speed.
+    - Dreadnaught is an armor model designed to make you a powerful force in battle, featuring an Armor Flail weapon with reach that deals 1d10 Force damage plus your ability modifier, the ability to enlarge your armor for 1 minute to increase your reach and size as a Bonus Action, and the option to push or pull smaller creatures up to 10 feet when you hit them with the flail.
+    - When you reach 11th level as an artificer, your Armor Flail deals 2d6 Force damage. Additionally, when you use your Giant Stature, your reach increases by 10 feet, and you gain a flying speed equal to your walking speed.
   - Armor Model: Guardian
-    - Guardian is an armor model designed for frontline combat, featuring Thunder Gauntlets that deal 1d8 thunder damage plus your ability modifier and cause hit creatures to have disadvantage on attacks against others, and a Defensive Field that lets you gain temporary hit points as a bonus action while you are at or below 50% of your maximum hit points, which are lost if you remove the armor.
+    - Guardian is an armor model designed for frontline combat, featuring Thunder Gauntlets that deal 1d8 thunder damage plus your ability modifier and cause hit creatures to have disadvantage on attacks against others, and a Defensive Field that lets you gain temporary Hit Points as a Bonus Action while you are at or below 50% of your maximum Hit Points, which are lost if you remove the armor.
     - When you reach 11th level as an artificer, your Thunder Gauntlets deal 1d10 thunder damage. When a creature enters your reach, you can use your reaction to make an attack against it with your Thunder Gauntlets.
   - Armor Model: Infiltrator
-    - Infiltrator is an armor model designed for stealth, featuring a Lightning Launcher that deals 1d6 lightning damage plus your ability modifier and can be thrown long distances, and dealing damage using this weapon, they gain Lightning Charges., increased speed by 5 feet, and advantage on Dexterity (Stealth) checks.
+    - Infiltrator is an armor model designed for stealth, featuring a Lightning Launcher that deals 1d6 lightning damage plus your ability modifier and can be thrown long distances. When you deal damage with this weapon, you gain Lightning Charges. You also gain an increased speed of 5 feet and advantage on Dexterity (Stealth) checks.
     - When you reach 11th level as an artificer, your Lightning Launcher deals 2d6 lightning damage. A creature that takes damage from this weapon has disadvantage on its next attack roll.
 - Level 5: Extra Attack
 - Level 9: Armor Replication
@@ -363,19 +363,19 @@ Choose **Kalashtar** from the list of **Versatile** passives available to **Huma
   - Level 5: Scorching Ray, Shatter
   - Level 9: Fireball, Slow
 - Level 3: Eldritch Cannon ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Resources/1_Normal_48/EldritchCannon.png?raw=true)
-  - You can create a Eldritch Cannon. You can have only one cannon at a time and must finish a Long Rest or expend a spell slot to create another.
+  - You can create an Eldritch Cannon. You can have only one cannon at a time and must finish a Long Rest or expend a spell slot to create another.
   - Arcane Refueling
     - Creates an Eldritch Cannon resource that allows you to summon an additional Eldritch Cannon by expending a spell slot.
   - Flamethrower
-    - Breathes fire in a 15-foot cone. Targets must make a Dexterity save, taking 2d8 fire damage on a fail (half on success).
+    - Breathes fire in a 15-foot cone. Targets must make a Dexterity save, taking 2d8 Fire damage on a fail (half on success).
   - Force Ballista
-    - Makes a ranged spell attack. On hit, deals 2d8 force damage and pushes a creature 5 feet.
+    - Makes a ranged spell attack. On hit, deals 2d8 Force damage and pushes a creature 5 feet.
   - Protector
-    - Grants itself and nearby allies (within 10 feet) temporary hit points equal to 1d8 + Intelligence modifier.
+    - Grants itself and nearby allies (within 10 feet) temporary Hit Points equal to 1d8 + Intelligence modifier.
 - Level 5: Arcane Firearm
   - You can turn your spellcasting focus into an arcane firearm by carving magical sigils into it. When you cast an Artificer spell, you add 1d8 to one of the spell's damage rolls.
 - Level 9: Explosive Cannon
-  - Your cannon's damage rolls increase by 1d8. You can use a Reaction to make it explode. Creatures within 20 feet must make a Dexterity save or take 3d10 force damage (half on success).
+  - Your cannon's damage rolls increase by 1d8. You can use a Reaction to make it explode. Creatures within 20 feet must make a Dexterity save or take 3d10 Force damage (half on success).
   - You can detonate your Eldritch Cannon.
 - Level 11: Fortified Position
   - You can have up to two cannons at once.
@@ -400,17 +400,17 @@ Choose **Kalashtar** from the list of **Versatile** passives available to **Huma
 - Level 9: Arcane Jolt ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Resources/1_Normal_48/ArcaneJolt.png?raw=true)
   - You and your Steel Defender share Arcane Jolt, allowing you to unleash destructive power and healing ability.
   - Destructive Energy
-    - When you hit a target with an attack roll using a weapon, or when your Steel Defender hits a target, you can channel magical energy through the strike, causing the target to take an extra 2d6 force damage.
+    - When you hit a target with an attack roll using a weapon, or when your Steel Defender hits a target, you can channel magical energy through the strike, causing the target to take an extra 2d6 Force damage.
   - Restorative Energy
-    - You or your Steel Defender can restore 2d6 hit points to one creature.
+    - You or your Steel Defender can restore 2d6 Hit Points to one creature.
 - Level 11: Improved Defender
-  - Your Arcane Jolt and Steel Defender become more powerful. The extra damage and healing from Arcane Jolt both increase to 3d6. Additionally, whenever your Steel Defender uses its Deflect Attack, the attacker takes force damage equal to 1d4 plus your Intelligence modifier.
+  - Your Arcane Jolt and Steel Defender become more powerful. The extra damage and healing from Arcane Jolt both increase to 3d6. Additionally, whenever your Steel Defender uses its Deflect Attack, the attacker takes Force damage equal to 1d4 plus your Intelligence modifier.
 
 ### Cartographer
 
 ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/ClassIcons/2_hotbar_140/Cartographer.png?raw=true)
 
-> A Cartographers is the premier navigator and reconnaissance agent. Using their creations, Cartographers can highlight threats, safeguard allies, and carve portals to distant locations.
+> A Cartographer is the premier navigator and reconnaissance agent. Using their creations, Cartographers can highlight threats, safeguard allies, and carve portals to distant locations.
 
 - Subclass Spells (Always prepared)
   - Level 3: Faerie Fire, Guiding Bolt, Healing Word
@@ -423,7 +423,7 @@ Choose **Kalashtar** from the list of **Versatile** passives available to **Huma
 - Level 3: Adventurer’s Awareness
   - When you roll Initiative, you can add your Proficiency Bonus to the roll. And can't be Surprised.
 - Level 5: Guided Precision
-  - When you hit a creature affected by Faerie Fire with an attack roll, you can add your Intelligence modifier to damage roll of the attack or spell. In addition, Faerie Fire no longer requires your concentration.
+  - When you hit a creature affected by Faerie Fire with an attack roll, you can add your Intelligence modifier to the damage roll of the attack or spell. In addition, Faerie Fire no longer requires your concentration.
 - Level 9: Ingenious Movement
   - When you use Flash of Genius, the target creature can, as part of the same reaction, teleport up to 30 feet to an unoccupied space you can see.
 
@@ -438,10 +438,10 @@ Choose **Kalashtar** from the list of **Versatile** passives available to **Huma
 - Level 3: Primal Knowledge
   - You gain proficiency in another skill of your choice from the skill list available to Barbarians at level 1.
 - Level 7: Feral Instinct
-  - Your instincts are so honed that you have Advantage on Initiative rolls (+5). Take to enter your Rage, you can Move up to half your Speed.
+  - Your instincts are so honed that you have Advantage on Initiative rolls (+5). When you take a Bonus Action to enter your Rage, you can move up to half your Speed.
 - Level 9: Brutal Strike
   - Forceful Blow: When hit the target, it takes an extra 1d10 damage and be pushed 15 feet straight away from you. Then you can move without provoking Opportunity Attacks.
-  - Hamstring Blow: When hit the he target, it takes an extra 1d10 damage and it's speed is reduced by 15 feet until the start of your next turn.
+  - Hamstring Blow: When hit the target, it takes an extra 1d10 damage and it's speed is reduced by 15 feet until the start of your next turn.
 - Level 11: Relentless Rage
   - Your Rage can keep you fighting despite grievous wounds. If you drop to 0 Hit Points while your Rage is active and don't die outright, your Hit Points instead change to a number equal to twice your Barbarian Level.
 - Level 12: Persistent Rage
@@ -459,7 +459,7 @@ Choose **Kalashtar** from the list of **Versatile** passives available to **Huma
 ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/ClassIcons/2_hotbar_140/TotemWarriorPath.png?raw=true)
 
 - Level 3: Rage of the Wilds
-  - Your Rage taps into the primal power of animals. Whenever you activate your Rage, you gain one of the follwing options of your choice.
+  - Your Rage taps into the primal power of animals. Whenever you activate your Rage, you gain one of the following options of your choice.
 
 ### Path of the Wild Magic
 
@@ -481,7 +481,7 @@ Choose **Kalashtar** from the list of **Versatile** passives available to **Huma
 - Level 3: Life-Giving Force
   - At the start of each of your turns while your Rage is active, you can choose another creature within 10 feet of yourself to gain Temporary Hit Points. To determine the number of Temporary Hit Points, roll a number of d6s equal to your Rage Damage bonus, and add them together.
 - Level 6: Branches of the Tree
-  - Whenever a creature you can see starts its turn within 30 feet of you while your Rage is active, you can take a Reaction to summon spectral branches of the World Tree around it. The target must succeed on a Strength saving throw (DC 8 plus your Strength modifier and Proficiency Bonus) or be pulled it closer to the caster. After the target pulled, you can reduce its Speed to 0 until the end of the current turn.
+  - Whenever a creature you can see starts its turn within 30 feet of you while your Rage is active, you can take a Reaction to summon spectral branches of the World Tree around it. The target must succeed on a Strength saving throw (DC 8 plus your Strength modifier and Proficiency Bonus) or be pulled closer to the caster. After the target pulled, you can reduce its Speed to 0 until the end of the current turn.
 - Level 10: Battering Roots
   - During your turn, your reach is doubled with any Melee weapon, as tendrils of the World Tree extend from you. When you hit with such a weapon on your turn, you can activate the Push and Topple mastery property in addition to a different mastery property you're using with that weapon.
 
@@ -517,7 +517,7 @@ Choose **Kalashtar** from the list of **Versatile** passives available to **Huma
 >Bards of the College of Dance know that the Words of Creation can't be contained within speech or song; the words are uttered by the movements of celestial bodies and flow through the motions of the smallest creatures. These Bards practice a way of being in harmony with the whirling cosmos that emphasizes agility, speed, and grace.
 
 - Level 3: Dazzling Footwork
-  - While you aren't wearing armor or wielding a Shield, you gain the following benefits. You have Advantage on Performance check.
+  - While you aren't wearing armor or wielding a Shield, you gain the following benefits. You have Advantage on Performance checks.
 - Level 3: Unarmored Defense
   - Your base Armor Class equals 10 plus your Dexterity and Charisma modifiers.
 - Level 3: Agile Strikes
@@ -547,7 +547,7 @@ Choose **Kalashtar** from the list of **Versatile** passives available to **Huma
 - Level 3: Lunar Vitality
   - Once per turn when you restore Hit Points to a creature with a spell, you can expend a Bardic Inspiration die and increase the amount of Hit Points restored by a number equal to a roll of the Bardic Inspiration die. The creature’s Speed also increases by 10 feet until the end of its next turn.
 - Level 6: Blessing of Moonlight
-  - You always have the Moonbeam spell prepared. While concentrating on Moonbeam, you can heal a creature of your choice that you can see within 60 feet of you, allowing them to regain 2d4 hit points once per turn.
+  - You always have the Moonbeam spell prepared. While concentrating on Moonbeam, you can heal a creature of your choice that you can see within 60 feet of you, allowing them to regain 2d4 Hit Points once per turn.
 - Level 12: Eventide’s Splendor
   - When you use Inspired Eclipse, the creature who received the Bardic Inspiration die can also have the Invisible condition. When you use Lunar Vitality, you can roll 1d6 and use the number rolled in place of expending a Bardic Inspiration die.
 
@@ -622,7 +622,7 @@ Choose **Kalashtar** from the list of **Versatile** passives available to **Huma
   - Level 7: Dimension Door, Banishment
   - Level 9: Bigby's Hand, Planar Binding
 - Level 3: Arcane Initiate
-  - You gain proficiency in the Arcana skill, and you gain two cantrips of your choice from the wizard spell list. For you, these cantrips count as cleric cantrips.
+  - You gain proficiency in the Arcana skill, and you gain two cantrips of your choice from the wizard spell list. For you, they count as Cleric cantrips.
 - Level 3: Modify Magic
   - You can use your Channel Divinity to alter your spells as you cast them. When you cast a spell, you can expend one use of your Channel Divinity to change it.
   - Fortifying Spell
@@ -630,9 +630,9 @@ Choose **Kalashtar** from the list of **Versatile** passives available to **Huma
   - Tenacious Spell
     - When you cast a spell that forces a creature to make a saving throw, choose one target of the spell you can see. Roll 1d6 and apply the number rolled as a penalty to that target's saving throw.
 - Level 6: Dispelling Recovery
-  - Starting at 6th level, when you restore hit points to an ally with a spell of 1st level or higher, you can also end one spell of your choice on that creature. The level of the spell you end must be equal to or lower than the level of the spell slot you use to cast the healing spell.
+  - Starting at 6th level, when you restore Hit Points to an ally with a spell of 1st level or higher, you can also end one spell of your choice on that creature. The level of the spell you end must be equal to or lower than the level of the spell slot you use to cast the healing spell.
 - Level 6, 8, 10, 12: Arcane Mastery
-  - You choose a spell from the wizard spell list. You add them to your list of domain spells. Like your other domain spells, they are always prepared and count as cleric spells for you.
+  - You choose a spell from the wizard spell list. You add it to your list of domain spells. Like your other domain spells, they are always prepared and count as cleric spells for you.
 
 ### Death Domain
 
@@ -655,13 +655,13 @@ Choose **Kalashtar** from the list of **Versatile** passives available to **Huma
   - Level 7: Blight, Dispel Evil and Good
   - Level 9: Hold Monster, Danse Macabre
 - Level 3: Pull of Death
-  - Once per turn, when you deal damage to a creature that has 50% or less of its hit points remaining with a spell or attack roll, that creature takes an extra 1d4 Necrotic damage.
+  - Once per turn, when you deal damage to a creature that has 50% or less of its Hit Points remaining with a spell or attack roll, that creature takes an extra 1d4 Necrotic damage.
 - Level 3: Return to Life
-  - When you restore hit points to a creature at 0 hit points with a spell or Channel Divinity, that creature regains an additional number of hit points equal to twice your Cleric level.
+  - When you restore Hit Points to a creature at 0 Hit Points with a spell or Channel Divinity, that creature regains an additional number of Hit Points equal to twice your Cleric level.
 - Level 3: Path to the Grave
-  - As a bonus action, you expend a use of your Channel Divinity to curse one creature you can see within 30 feet of you for 2 turns. While cursed, the creature has disadvantage on attack rolls and saving throws.
+  - As a Bonus Action, you expend a use of your Channel Divinity to curse one creature you can see within 30 feet of you for 2 turns. While cursed, the creature has disadvantage on attack rolls and saving throws.
 - Level 6: Sentinel at Death's Door
-  - When a creature you can see within 30 feet of you is hit with an attack while it has 50% or less of its hit points, you can use your reaction to halve that attack's damage. You can use this feature a number of times equal to your Wisdom modifier. You regain all expended uses when you finish a long rest.
+  - When a creature you can see within 30 feet of you is hit with an attack while it has 50% or less of its Hit Points, you can use your reaction to halve that attack's damage. You can use this feature a number of times equal to your Wisdom modifier. You regain all expended uses when you finish a Long Rest.
 
 ### Knowledge Domain
 
@@ -733,7 +733,7 @@ Choose **Kalashtar** from the list of **Versatile** passives available to **Huma
   - Level 7: Fire Shield, Freedom of Movement
   - Level 9: Hold Monster, Steel Wind Strike
 - Level 3: Guided Strike
-  - When you misses with an attack roll, you can expend one use of your Channel Divinity and give that roll a +10 bonus, potentially causing it to hit.
+  - When you miss with an attack roll, you can expend one use of your Channel Divinity and give that roll a +10 bonus, potentially causing it to hit.
 - Level 3: Improved Guided Strike
   - When you or a creature within 30 feet of you misses with an attack roll, you can expend one use of your Channel Divinity and give that roll a +10 bonus, potentially causing it to hit. When you use this feature to benefit another creature's attack roll, you must take a Reaction to do so.
 - Level 3: War Priest
@@ -773,7 +773,7 @@ Choose **Kalashtar** from the list of **Versatile** passives available to **Huma
 - Level 3: Draconic Lore
   - You gain Expertise in the History skill.
 - Level 3: Dragon Shape
-  - You can transform into a dragon shape. When you take this form, you gain temporary hit points equal to your maximum Hit Points. When you use your dragon shape, you determine what type of dragon to transform into. The type of dragon determines your scale color and the breath weapon’s damage type.
+  - You can transform into a dragon shape. When you take this form, you gain temporary Hit Points equal to your maximum Hit Points. When you use your dragon shape, you determine what type of dragon to transform into. The type of dragon determines your scale color and the breath weapon’s damage type.
   - Your dragon form grants you an AC equal to 13 + your Dexterity modifier. When you take the Attack action, you can make an unarmed strike using your dagger-like teeth, substituting your Wisdom modifier for the attack and damage rolls. As an action, you can exhale a plume of powerful energy. Your breath weapon improves at 6th and 10th levels.
 - Level 6: Improved Dragon Shape
   - Your control over your dragon shape has improved. Your AC is equal to 14 + your Dexterity modifier. Your razor-sharp claws are natural weapons, which you can use to make unarmed strikes. When you take the Attack action on your turn, you can make one attack with your bite and one with your claws. Your attacks count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
@@ -794,12 +794,12 @@ Choose **Kalashtar** from the list of **Versatile** passives available to **Huma
   - Level 9: Conjure Elemental, Mass Cure Wounds
 - Level 3: Balm of the Summer Court ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Resources/1_Normal_48/BalmOfTheSummerCourt.png?raw=true)
   - You become imbued with the blessings of the Summer Court. You are a font of energy that offers respite from injuries. You have a pool of fey energy represented by a number of d6s equal to your druid level.
-  - As a bonus action, you can choose one creature you can see within 60 feet of you and spend a number of those dice. Roll the spent dice and add them together. The target regains a number of hit points equal to the total. The target also gains 1 hit point per die spent. You regain all expended dice when you finish a long rest.
+  - As a Bonus Action, you can choose one creature you can see within 60 feet of you and spend a number of those dice. Roll the spent dice and add them together. The target regains a number of Hit Points equal to the total. The target also gains 1 hit point per die spent. You regain all expended dice when you finish a Long Rest.
 - Level 6: Hearth of Moonlight and Shadow
-  - Home can be wherever you are. You can invoke the shadowy power of the Gloaming Court to help guard your respite. You and your allies gain the effect of a short rest, and until your next long rest, you gain a +5 bonus to Stealth and Perception checks.
+  - Home can be wherever you are. You can invoke the shadowy power of the Gloaming Court to help guard your respite. You and your allies gain the effect of a short rest, and until your next Long Rest, you gain a +5 bonus to Stealth and Perception checks.
 - Level 10: Hidden Paths ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Resources/1_Normal_48/HiddenPaths.png?raw=true)
-  - Starting at 10th level, you can use the hidden, magical pathways that some fey use to traverse space in the blink of an eye. As a bonus action on your turn, you can teleport up to 30 feet to an unoccupied space you can see. Alternatively, you can use your action to teleport one willing creature you touch up to 90 feet to an unoccupied space you can see.
-  - You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.
+  - Starting at 10th level, you can use the hidden, magical pathways that some fey use to traverse space in the blink of an eye. As a Bonus Action on your turn, you can teleport up to 30 feet to an unoccupied space you can see. Alternatively, you can use your action to teleport one willing creature you touch up to 90 feet to an unoccupied space you can see.
+  - You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a Long Rest.
 
 ### Circle of the Land
 
@@ -890,7 +890,7 @@ Choose **Kalashtar** from the list of **Versatile** passives available to **Huma
 ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/ClassIcons/2_hotbar_140/Fighter.png?raw=true)
 
 - Level 1: Second Wind ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Resources/1_Normal_48/SecondWindCharge.png?raw=true)
-  - You can use this feature twice. You regain one expended use when you finish a short rest, and you regain all expended uses when you finish a long rest. When you reach Fighter Level 4, you gain 1 additional use of this feature. At Level 10, you gain 4 uses.
+  - You can use this feature twice. You regain one expended use when you finish a short rest, and you regain all expended uses when you finish a Long Rest. When you reach Fighter Level 4, you gain 1 additional use of this feature. At Level 10, you gain 4 uses.
 - Level 2: Tactical Mind
   - You have a mind for tactics on and off the battlefield. When you fail an ability check, you can expend a use of your Second Wind to push yourself toward success. Rather than regaining Hit Points, you roll 1d10 and add the number rolled to the ability check, potentially turning it into a success.
 - Level 5: Tactical Shift
@@ -1017,27 +1017,27 @@ Formerly, Purple Dragon Knight
     - When you are hit by an attack roll, you can use your reaction to invoke the rune. For the next 2 turns, the attacker targets the nearest creature other than you.
   - Fire Rune ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Resources/1_Normal_48/FireRune.png?raw=true)
     - You have advantage on Athletics checks and Perception checks.
-    - When you hit a creature with a weapon attack, you can invoke the rune to deal an extra 2d6 fire damage and force the target to make a Strength saving throw. On a failed save, the target is restrained for 1 minute and takes 2d6 fire damage at the start of each of its turns. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success.
+    - When you hit a creature with a weapon attack, you can invoke the rune to deal an extra 2d6 Fire damage and force the target to make a Strength saving throw. On a failed save, the target is restrained for 1 minute and takes 2d6 Fire damage at the start of each of its turns. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success.
   - Frost Rune ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Resources/1_Normal_48/FrostRune.png?raw=true)
     - You have advantage on Animal Handling checks and Intimidation checks.
-    - You can use a bonus action to invoke the rune and gain +2 to AC, Strength and Constitution ability checks, and saving throws for 10 minutes.
+    - You can use a Bonus Action to invoke the rune and gain +2 to AC, Strength and Constitution ability checks, and saving throws for 10 minutes.
   - Stone Rune ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Resources/1_Normal_48/StoneRune.png?raw=true)
     - You have advantage on Insight checks. You have darkvision up to 120 feet.
-    - As a bonus action, you can invoke the rune to target one creature within 30 feet.The target must make a Constitution saving throw or be petrified and incapacitated with a speed of 0 for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success.
+    - As a Bonus Action, you can invoke the rune to target one creature within 30 feet.The target must make a Constitution saving throw or be petrified and incapacitated with a speed of 0 for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success.
   - Hill Rune (Fighter Level 7) ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Resources/1_Normal_48/HillRune.png?raw=true)
     - You have advantage on saving throws against poison and resistance to poison damage.
-    - As a bonus action, you can invoke the rune to gain resistance to bludgeoning, piercing, and slashing damage for 1 minute.
+    - As a Bonus Action, you can invoke the rune to gain resistance to bludgeoning, piercing, and slashing damage for 1 minute.
   - Storm Rune (Fighter Level 7) ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Resources/1_Normal_48/StormRune.png?raw=true)
-    - As a bonus action, you can invoke the rune to enter a prophetic state for 1 minute or until you become incapacitated. While in this state, when you or a creature you can see within 60 feet makes an attack roll or a saving throw, you can use your reaction to grant advantage or disadvantage on that roll.
+    - As a Bonus Action, you can invoke the rune to enter a prophetic state for 1 minute or until you become incapacitated. While in this state, when you or a creature you can see within 60 feet makes an attack roll or a saving throw, you can use your reaction to grant advantage or disadvantage on that roll.
     - You have advantage on Arcana checks. You can't be surprised.
 - Level 3: Giant's Might ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Resources/1_Normal_48/GiantsMight.png?raw=true)
-  - You can cast Enlarge on yourself up to twice, regaining all uses after a long rest. At fighter level 5, you gain 1 additional use, and at level 9, you have a total of 4 uses.
+  - You can cast Enlarge on yourself up to twice, regaining all uses after a Long Rest. At fighter level 5, you gain 1 additional use, and at level 9, you have a total of 4 uses.
 - Level 7: Runic Shield ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Resources/1_Normal_48/RunicShield.png?raw=true)
-  - When a creature you can see within 60 feet is hit by an attack roll, you can use this reaction to impose disadvantage. You can do this three times, and you regain all uses after a long rest. At Fighter level 9, you gain 1 additional use.
+  - When a creature you can see within 60 feet is hit by an attack roll, you can use this reaction to impose disadvantage. You can do this three times, and you regain all uses after a Long Rest. At Fighter level 9, you gain 1 additional use.
 - Level 10: Great Stature
   - The extra damage you deal with your Giant's Might feature increases to 1d8.
 - Level 12: Master of Runes
-  - You can invoke each rune from your Rune Carver feature twice instead of once, regaining all uses after a short or long rest.
+  - You can invoke each rune from your Rune Carver feature twice instead of once, regaining all uses after a short or Long Rest.
 
 ## Monk
 
@@ -1134,13 +1134,13 @@ Formerly, Purple Dragon Knight
 - Level 3: Agile Parry
   - If you make a melee attack with a kensei weapon on your turn, you gain a +2 bonus to AC until the start of your next turn, while holding the weapon and not incapacitated.
 - Level 3: Kensei's Shot
-  - As a bonus action, you can deal an extra 1d4 damage with ranged kensei weapon attacks until the end of the turn.
+  - As a Bonus Action, you can deal an extra 1d4 damage with ranged kensei weapon attacks until the end of the turn.
 - Level 6: Magic Kensei Weapons
   - Your attacks made with kensei weapons ignore both magical and nonmagical resistance.
 - Level 6: Deft Strike
   - When you hit a target with a kensei weapon, you can spend 1 ki point to cause the weapon to deal extra damage to the target equal to your Martial Arts die. You can use this feature only once on each of your turns.
 - Level 11: Sharpen the Blade
-  - As a bonus action, you can expend up to 3 ki points to grant a kensei weapon you touch a bonus to attack and damage rolls equal to the number of ki points spent. This bonus lasts for 1 minute.
+  - As a Bonus Action, you can expend up to 3 ki points to grant a kensei weapon you touch a bonus to attack and damage rolls equal to the number of ki points spent. This bonus lasts for 1 minute.
 
 ## Paladin
 
@@ -1232,7 +1232,7 @@ Formerly, Purple Dragon Knight
   - Djinni’s Escape.
     - You teleport to an unoccupied space you can see within 30 feet of yourself and take on a semi-incorporeal form, which lasts until the end of your next turn. While in this form, you have Resistance to Bludgeoning, Piercing, and Slashing damage, and you have Immunity to the Grappled, Prone, and Restrained conditions.
   - Efreeti’s Fury.
-    - The target of your Divine Smite takes an extra 2d4 Fire damage, and flames spread to any other creatures you can see within 30 feet of you, causing them to also take 2d4 fire damage.
+    - The target of your Divine Smite takes an extra 2d4 Fire damage, and flames spread to any other creatures you can see within 30 feet of you, causing them to also take 2d4 Fire damage.
   - Marid’s Surge.
     - The target of your Divine Smite and each creature of your choice in a 10-foot Emanation originating from you make a Strength saving throw against your spell save DC. On a failed save, a creature is pushed 15 feet straight away from you and has the Prone condition.
 - Level 3: Genie's Splendor
@@ -1258,11 +1258,11 @@ Formerly, Purple Dragon Knight
   - Level 5: Crown of Madness, Darkness
   - Level 9: Fear, Summon Undead
 - Level 3: Conjure Undead
-  - As a bonus action, you can use one charge of your Channel Divinity to summon a number of undead equal to half your Charisma modifier (rounded up, with at least one undead). Each appears in an unoccupied space you can see within 30 feet and can be either a skeleton or a zombie. The undead remain under your control for 1 minute before crumbling into ash.
+  - As a Bonus Action, you can use one charge of your Channel Divinity to summon a number of undead equal to half your Charisma modifier (rounded up, with at least one undead). Each appears in an unoccupied space you can see within 30 feet and can be either a skeleton or a zombie. The undead remain under your control for 1 minute before crumbling into ash.
 - Level 3: Dreadful Aspect  
   - You can spend one use of your Channel Divinity to unleash a wave of magical menace. Every creature you choose within a 30-foot emanation from you must pass a Wisdom saving throw or become Frightened for 1 minute. A Frightened creature can try again at the end of each of its turns, ending the effect on itself with a successful save.
 - Level 7: Aura of Hate
-  - When you or any allied Fiend or Undead within your Aura of Hate land a melee hit on a creature, that attack deals extra necrotic damage equal to your Charisma modifier.
+  - When you or any allied Fiend or Undead within your Aura of Hate land a melee hit on a creature, that attack deals extra Necrotic damage equal to your Charisma modifier.
 
 ## Ranger
 
@@ -1362,9 +1362,9 @@ Formerly, Purple Dragon Knight
 - Level 3: Ancient Armor
   - When you cast Hunter's Mark, you transform, gaining a bonus to your AC equal to your Wisdom modifier for the spell's duration.
 - Level 3: Unnerving Aura
-  - While you're concentrating on Hunter's Mark, when an enemy starts its turn within a 10-foot emanation originating from you, it must make a Wisdom saving throw against your spell save DC. On a failed save, it can take either an action or a bonus action on this turn, but not both.
+  - While you're concentrating on Hunter's Mark, when an enemy starts its turn within a 10-foot emanation originating from you, it must make a Wisdom saving throw against your spell save DC. On a failed save, it can take either an action or a Bonus Action on this turn, but not both.
 - Level 7: Hungering Might
-  - You gain a bonus to Constitution saving throws equal to your Wisdom modifier. Additionally, once per turn when you hit a creature with an attack roll while concentrating on Hunter's Mark, you regain hit points equal to 1d10 plus your Wisdom modifier, provided your hit points are below 50%.
+  - You gain a bonus to Constitution saving throws equal to your Wisdom modifier. Additionally, once per turn when you hit a creature with an attack roll while concentrating on Hunter's Mark, you regain Hit Points equal to 1d10 plus your Wisdom modifier, provided your Hit Points are below 50%.
 - Level 11: Eerie Aura
   - When a creature fails its saving throw against your Unnerving Aura, it also takes necrotic, poison, or psychic damage (your choice) equal to your Ranger level.
 - Level 11: Strangling Roots
@@ -1384,7 +1384,7 @@ Formerly, Purple Dragon Knight
 ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/ClassIcons/2_hotbar_140/Swarmkeeper.png?raw=true)
 
 - Level 3: Gathered Swarm
-  - You can replace the swarm you are interacting with after each long rest.
+  - You can replace the swarm you are interacting with after each Long Rest.
 
 ### Winter Walker
 
@@ -1405,7 +1405,7 @@ Formerly, Purple Dragon Knight
 - Level 3: Hunter's Rime
   - Ice rimes you and your prey, protecting you and slowing them. When you cast Hunter's Mark, you gain Temporary Hit Points equal to 1d10 plus your Ranger level. Additionally, while a creature is marked by your Hunter's Mark, it can't take the Disengage action.
 - Level 7: Fortifying Soul ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Resources/1_Normal_48/FortifyingSoul.png?raw=true)
-  - You choose a creature. The chosen creature gains temporary hit points equal to 1d10 plus your Ranger level and becomes immune to the Frightened condition for 1 minute.  You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+  - You choose a creature. The chosen creature gains temporary Hit Points equal to 1d10 plus your Ranger level and becomes immune to the Frightened condition for 1 minute.  You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 - Level 11: Chilling Retribution ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Resources/1_Normal_48/ChillingRetribution.png?raw=true)
   - When a creature hits you with an attack roll, you can use a Reaction to force it to make a Wisdom saving throw against your spell save DC; on a failed save, it is Frightened until the end of it's next turn. You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
@@ -1439,7 +1439,7 @@ Arcane Tricksters now learn their spells from the wizard spell list, without res
 
 - Level 6: Magical Ambush
 - Level 11: Spell Thief
-  - You can cast Counterspell once per long rest.
+  - You can cast Counterspell once per Long Rest.
 
 ### Assassin
 
@@ -1472,9 +1472,9 @@ Arcane Tricksters now learn their spells from the wizard spell list, without res
 - Level 3: Sanguin Conversion
   - You can convert a Sangromancy Die into a Hit Point Die. When you do so, you expend one Sangromancy Die and gain one Hit Point Die of the same size.
 - Level 6: Bloody Blades
-  - When you score a Critical Hit with melee weapon, you can cause the weapon to deal 1d8 Necrotic Damage to the target.
+  - When you score a Critical Hit with melee weapon, you can cause the weapon to deal 1d8 Necrotic damage to the target.
 - Level 11: Bloody Exit
-  - When a creature hits you with an attack roll, you can use your Reaction and expend 3 Hit Dice or Sangromancy Dice to turn into bloody mist. The triggering attack automatically misses you, and you assume Gaseous Form. Your next melee weapon attack deals an extra 3d8 Necrotic Damage to the target.
+  - When a creature hits you with an attack roll, you can use your Reaction and expend 3 Hit Dice or Sangromancy Dice to turn into bloody mist. The triggering attack automatically misses you, and you assume Gaseous Form. Your next melee weapon attack deals an extra 3d8 Necrotic damage to the target.
 
 ### Scion of the Three
 
@@ -1483,7 +1483,7 @@ Arcane Tricksters now learn their spells from the wizard spell list, without res
 > A Scion of the Three draws power from a group of malevolent gods known as the Dead Three: Bane, deity of tyranny; Bhaal, deity of violence and murder; and Myrkul, deity of death. While some Rogues of this subclass pledge themselves ardently to those three macabre gods, others find themselves thrust on this path by a curse. Either way, a scion's power manifests as various occult gifts, as well as an uncanny talent for striking and terrifying foes. Scions of the Three are most common in Baldur's Gate, where the Dead Three have long competed for influence over mortal hearts. Underground cults to Bane, Bhaal, and Myrkul often count Scions of the Three among their most useful agents.
 
 - Level 3: Bloodthirst ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Skills/4_Readme_48/Rogue_Bloodthirst.png?raw=true)
-  - When an enemy you can see within 30 feet of yourself takes damage and is reduced to 50% or less of its hit points, after taking that damage but not killed outright, you can take a Reaction and teleport to an unoccupied space you can see within 5 feet of that enemy. You can then make one melee attack. You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+  - When an enemy you can see within 30 feet of yourself takes damage and is reduced to 50% or less of its Hit Points, after taking that damage but not killed outright, you can take a Reaction and teleport to an unoccupied space you can see within 5 feet of that enemy. You can then make one melee attack. You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 - Level 3: Dread Allegiance
   - When you choose one of the Dead Three—Bane, Bhaal, or Myrkul—you gain specific benefits based on your patron. You can change your choice of patron when you finish a Long Rest.
   - Dread Allegiance: Bane
@@ -1536,7 +1536,7 @@ Arcane Tricksters now learn their spells from the wizard spell list, without res
   - Your Jump distance is increased by 3m.
   - Once per turn, by expending 2 meters of your movement speed, you can jump up to your maximum jump distance.
 - Level 6: Supreme Sneak
-  - Once per turn, you can try to hide without any action point or bonus action point.
+  - Once per turn, you can try to hide without any action point or Bonus Action point.
 - Level 11: Thief's Reflexes
   - You gain Action Surge.
 
@@ -1694,7 +1694,7 @@ Arcane Tricksters now learn their spells from the wizard spell list, without res
   - Pact of The Chain
     - You can replace one of your attacks to allow your familiar to make one melee attack of its own with its Reaction.
   - Pact of the Tome
-    - You always have the Hex spell prepared. You can cast Hex without expending a spell slot a number of times equal to half your Charisma modifier (rounded down, minimum of once), and you regain all expended uses when you finish a long rest.
+    - You always have the Hex spell prepared. You can cast Hex without expending a spell slot a number of times equal to half your Charisma modifier (rounded down, minimum of once), and you regain all expended uses when you finish a Long Rest.
 - Required Warlock Level 2
   - Book of Ancient Secrets
     - The spell power Level is equal to the Level of the opened Warlock spell slot.
@@ -1851,7 +1851,7 @@ Arcane Tricksters now learn their spells from the wizard spell list, without res
 - Level 3: Bladesong
   - As a Bonus Action, you invoke an elven magic called the Bladesong, provided you aren’t wearing armor or using a Shield.
   - The Bladesong lasts for 1 minute and ends early if you have the Incapacitated condition, if you don armor or a Shield, or if you use two hands to make an attack with a weapon. You can dismiss the Bladesong at any time (no action required).
-  - While the Bladesong is active, you gain the following benefits. You can invoke the Bladesong a number of times equal to your Intelligence modifier. You regain all expended uses when you finish a long rest. If you have no uses remaining, you can expend one use of Arcane Recovery to activate it instead..
+  - While the Bladesong is active, you gain the following benefits. You can invoke the Bladesong a number of times equal to your Intelligence modifier. You regain all expended uses when you finish a Long Rest. If you have no uses remaining, you can expend one use of Arcane Recovery to activate it instead..
   - Agility. You gain a bonus to your AC equal to your Intelligence modifier (minimum of +1), and your Speed increases by 10 feet. In addition, you have Advantage on Dexterity (Acrobatics) checks.
   - Bladework. Whenever you attack with a weapon with which you have proficiency, you can use your Intelligence modifier for the attack and damage rolls instead of using Strength or Dexterity.
   - Focus. When you make a Constitution saving throw to maintain Concentration, you can add your Intelligence modifier to the total.
@@ -1896,7 +1896,7 @@ Arcane Tricksters now learn their spells from the wizard spell list, without res
 - Level 3: Enchanting Talker
   - Whenever you make a Charisma check, you gain a bonus to the check equal to your Intelligence modifier (minimum of +1). You also gain proficiency in one of these skills of your choice: Deception, Intimidation, or Persuasion.
 - Level 3: Vexing Movement
-  - Immediately after you cast an Enchantment spell using an action and a spell slot, you can take both the Disengage and Dash actions as a bonus action. You can use this bonus action a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest.
+  - Immediately after you cast an Enchantment spell using an action and a spell slot, you can take both the Disengage and Dash actions as a Bonus Action. You can use this Bonus Action a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a Long Rest.
 - Level 6: Reflecting Charm
   - When a creature you can see within 30 feet of you hits you with an attack, you can use your reaction to reduce the damage you take by 5 multiplied by the spell slot level used. The attacker must then make a Wisdom saving throw against your spell save DC. On a failed save, the attacker takes psychic damage equal to half your wizard level plus your Intelligence modifier.
 
@@ -1935,7 +1935,7 @@ Arcane Tricksters now learn their spells from the wizard spell list, without res
 - Level 3: Necromancy Savant
   - You can add a Necromancy spell to your spellbook. It is always prepared and doesn’t count against the number of spells you can prepare.
 - Level 3: Graim Harvest
-  - When you cast a Necromancy spell using a spell slot, choose yourself or a creature you can see within 30 feet. The chosen target gains temporary hit points equal to proficiency bonus plus your Intelligence modifier.
+  - When you cast a Necromancy spell using a spell slot, choose yourself or a creature you can see within 30 feet. The chosen target gains temporary Hit Points equal to proficiency bonus plus your Intelligence modifier.
 - Level 3: Necrotic Resistance
 - Level 6: Overwhelming Necrosis
   - Damage from your Wizard spells and Wizard features ignores Resistance to Necrotic damage.
@@ -1968,7 +1968,7 @@ Arcane Tricksters now learn their spells from the wizard spell list, without res
   - You can add a Transmutation spell to your spellbook. It is always prepared and doesn’t count against the number of spells you can prepare.
 - Level 3: Transmuter's Stone
 - Level 3: Woundrous Enhancement
-  - You can cast the spell Enhance Ability once per long rest without using a spell slot. When you cast it this way, the target of your Enhance Ability spell also gains advantage on saving throws that use the ability you chose.
+  - You can cast the spell Enhance Ability once per Long Rest without using a spell slot. When you cast it this way, the target of your Enhance Ability spell also gains advantage on saving throws that use the ability you chose.
 - Level 6: Split Transmutation
   - When you cast a Transmutation spell like Fly using a higher-level spell slot to target an additional creature, increase the spell's effective level by 1.
 - Level 10: Potent Stone
@@ -2022,7 +2022,7 @@ Arcane Tricksters now learn their spells from the wizard spell list, without res
 - Level 3: Sharpshooter's Stance ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Skills/4_Readme_48/Gunslinger_SharpshootersStance.png?raw=true)
   - You don't have disadvantage on ranged weapon attacks against prone creatures. When you have the Prone condition, you can right yourself and thereby end the condition with only 5 feet of movement.
 - Level 6: Concealed Position
-  - You can take the Hide action as a bonus action. If you make an attack roll while hidden and the roll misses, making the attack roll doesn't reveal your location.
+  - You can take the Hide action as a Bonus Action. If you make an attack roll while hidden and the roll misses, making the attack roll doesn't reveal your location.
 - Level 10: Reposition
   - As a Reaction, you can move up to half your Speed and disengage.
 
@@ -2035,7 +2035,7 @@ Arcane Tricksters now learn their spells from the wizard spell list, without res
 - Level 3: Poker Face ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Skills/4_Readme_48/Gunslinger_PokerFace.png?raw=true)
   - You gain proficiency with in one of the following skills of your choice: Deception, Insight, or Perception.
 - Level 3: Liar's Dice ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Skills/4_Readme_48/Gunslinger_LiarsDice.png?raw=true)
-  - When you make a damage roll with a ranged weapon, you can expend one Risk Die as a bonus action. Roll a d20. On an 11 or higher, the damage of your next ranged weapon attack is doubled. On a 10 or lower, it's halved.
+  - When you make a damage roll with a ranged weapon, you can expend one Risk Die as a Bonus Action. Roll a d20. On an 11 or higher, the damage of your next ranged weapon attack is doubled. On a 10 or lower, it's halved.
 - Level 6: Risky Business
   - Once per turn when you make an attack roll against an enemy and the roll doesn't have Disadvantage, you can choose to make the roll with Disadvantage. When you do, you regain one expended Risk Die.
 - Level 10: Risk Taker
@@ -2112,11 +2112,11 @@ Arcane Tricksters now learn their spells from the wizard spell list, without res
 >These archdevils' elite operatives are the illriggers. Knights, assassins, mages, and terror-commandos of Hell, illriggers command the battlefield, disrupt enemy factions, and carry out their archdevil's infernal will.
 
 - Level 1: Baleful Interdict ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Resources/1_Normal_48/IllriggerSeal.png?raw=true)
-  - You gain the ability to censure creatures with the power of Hell. Once on your turn, you can place a magical seal on a creature within 30 feet of you. You can either place this seal when you hit that target with a weapon attack (no action required), or you can use a bonus action to place this seal on a target you can see within range.
-  - You can only place a limited number of seals before resting, and you regain all seals when you finish a short or long rest. The number of seals you can place increases as you gain illrigger levels.
-  - If an interdicted creature dies, you can use a bonus action on your turn to move all seals placed on them to a new creature you can see within 30 feet of them.
+  - You gain the ability to censure creatures with the power of Hell. Once on your turn, you can place a magical seal on a creature within 30 feet of you. You can either place this seal when you hit that target with a weapon attack (no action required), or you can use a Bonus Action to place this seal on a target you can see within range.
+  - You can only place a limited number of seals before resting, and you regain all seals when you finish a short or Long Rest. The number of seals you can place increases as you gain illrigger levels.
+  - If an interdicted creature dies, you can use a Bonus Action on your turn to move all seals placed on them to a new creature you can see within 30 feet of them.
   - Burning Seals ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Skills/4_Readme_48/Spell_Illrigger_BurningSeals_Fire.png?raw=true)
-    - You can burn a seal you placed on them to deal 1d6 fire or necrotic damage (your choice) to that creature per seal burned. You deal this damage immediately after the triggering damage. Burning a seal doesn't require an action from you, but you can't do so while incapacitated. Once a seal is burned, it immediately vanishes.
+    - You can burn a seal you placed on them to deal 1d6 fire or Necrotic damage (your choice) to that creature per seal burned. You deal this damage immediately after the triggering damage. Burning a seal doesn't require an action from you, but you can't do so while incapacitated. Once a seal is burned, it immediately vanishes.
   - Once you reach 5th level in this class, your connection to your archdevil strengthens. Each burned seal deals an extra 1d6 damage, for a total of 2d6. The damage of each seal increases again by 1d6 when you reach 10th level for a total of 3d6.
 - Level 2: Combat Mastery
   - Your archdevil grants you uncanny skill in a certain form of combat. Choose one of the following illrigger combat masteries:
@@ -2139,31 +2139,31 @@ Arcane Tricksters now learn their spells from the wizard spell list, without res
   - Bedevil ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Skills/4_Readme_48/Illrigger_Bedevil.png?raw=true)
     - When you burn a seal on an interdicted creature, you can activate this boon (no action required). The target must subtract a number equal to your proficiency bonus from the result of the next saving throw they make before the end of their next turn.
   - Soul Eater ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Skills/4_Readme_48/Illrigger_SoulEater.png?raw=true)
-    - When you burn a seal on an interdicted creature, you can activate this boon (no action required) to regain hit points equal to your illrigger level.
+    - When you burn a seal on an interdicted creature, you can activate this boon (no action required) to regain Hit Points equal to your illrigger level.
   - Styx's Apathy ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Skills/4_Readme_48/Illrigger_StyxsApathy.png?raw=true)
     - When you burn a seal on an interdicted creature, you can use your reaction to flood the target with an otherworldly chill. Until the end of the target's next turn, they can't take reactions.
   - Swift Retribution (Passive)
     - When an interdicted creature provokes an opportunity attack from you, you can make that attack without using your reaction, provided you're not incapacitated. Once you benefit from this boon, you can't do so again until the start of your next turn.
 - Level 3: Invoke Hell ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Resources/1_Normal_48/InvokeHellCharge.png?raw=true)
   - Your diabolic connection allows you to channel infernal energy to empower magical effects. Your chosen diabolic contract grants you two Invoke Hell options and describes how to use each.
-  - You can use this feature twice. You regain one expended use when you finish a short rest, and you regain all expended uses when you finish a long rest. When you reach Illrigger Level 11, you gain 1 additional use of this feature.  - Some Invoke Hell effects require a saving throw. When you use such an effect, the DC equals your interdict save DC.
+  - You can use this feature twice. You regain one expended use when you finish a short rest, and you regain all expended uses when you finish a Long Rest. When you reach Illrigger Level 11, you gain 1 additional use of this feature.  - Some Invoke Hell effects require a saving throw. When you use such an effect, the DC equals your interdict save DC.
 - Level 5: Extra Attack
 - Level 6: Infernal Conduit ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Resources/1_Normal_48/InfernalConduitDie.png?raw=true)
   - You can strengthen your allies at the cost of yourself—or drain your enemy's life force for your own gain. You have a pool of Infernal Conduit dice, which are d10s. The number of Infernal Conduit dice in your pool increase as you gain illrigger levels, as shown in the Infernal Conduit Dice column of the Illrigger table.
   - As an action, you can touch another creature and spend one or more dice from your pool. The target must make a Constitution saving throw against your interdict save DC. A creature can willingly fail this saving throw. Roll the spent dice and choose one of the following effects:
     - Invigorate ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Skills/4_Readme_48/Illrigger_InfernalConduit_Invigorate.png?raw=true)
-      - On a failed save, the target regains hit points equal to the total you rolled, and you take necrotic damage equal to that total. On a successful save, the target regains half as many hit points, and you take necrotic damage equal to that total. Save or fail, this necrotic damage can't be reduced in any way, and if this damage reduces you to 0 hit points, you fall unconscious and are stabilized.
+      - On a failed save, the target regains Hit Points equal to the total you rolled, and you take Necrotic damage equal to that total. On a successful save, the target regains half as many Hit Points, and you take Necrotic damage equal to that total. Save or fail, this Necrotic damage can't be reduced in any way, and if this damage reduces you to 0 Hit Points, you fall unconscious and are stabilized.
     - Devour ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Skills/4_Readme_48/Illrigger_InfernalConduit_Devour.png?raw=true)
-      - On a failed save, the target takes necrotic damage equal to the total you rolled, and you regain hit points equal to that total. On a successful save, the target takes half as much damage, and you regain hit points equal to the damage the target took. Save or fail, or if the target chose to fail their saving throw against this effect, the necrotic damage can't be reduced in any way. When you reach 11th level in this class, the target also gains a level of exhaustion on a failed save against this effect. This level of exhaustion can be reduced as normal, and a creature can't suffer more than three levels of exhaustion combined from all illriggers' Infernal Conduit features.
+      - On a failed save, the target takes Necrotic damage equal to the total you rolled, and you regain Hit Points equal to that total. On a successful save, the target takes half as much damage, and you regain Hit Points equal to the damage the target took. Save or fail, or if the target chose to fail their saving throw against this effect, the Necrotic damage can't be reduced in any way. When you reach 11th level in this class, the target also gains a level of exhaustion on a failed save against this effect. This level of exhaustion can be reduced as normal, and a creature can't suffer more than three levels of exhaustion combined from all illriggers' Infernal Conduit features.
   - You regain any spent Infernal Conduit dice when you finish a short rest.
 - Level 7: Interdiction
   - You can infuse your seals with hellish magical power, enhancing their effects.
   - Acheron's Chain ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Skills/4_Readme_48/Illrigger_AcheronsChain.png?raw=true)
-    - When you use a bonus action to place or move a seal on a Large or smaller creature, you can activate this boon (no action required). You conjure infernal chains to grasp the target, forcing them to make a Strength saving throw. On a failed save, you can cause them to be restrained until the end of your next turn (escape DC equal to your interdict save DC).
+    - When you use a Bonus Action to place or move a seal on a Large or smaller creature, you can activate this boon (no action required). You conjure infernal chains to grasp the target, forcing them to make a Strength saving throw. On a failed save, you can cause them to be restrained until the end of your next turn (escape DC equal to your interdict save DC).
   - Conflagrant Channel ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Skills/4_Readme_48/Illrigger_ConflagrantChannel.png?raw=true)
-    - You can expend a seal as a bonus action to teleport up to 60 feet to an unoccupied space you can see.
+    - You can expend a seal as a Bonus Action to teleport up to 60 feet to an unoccupied space you can see.
   - Shadow Shroud ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Skills/4_Readme_48/Illrigger_ShadowShroud.png?raw=true)
-    - You can expend a seal as a bonus action to weave a mantle of semisolid shadows around yourself or a creature you touch. The target gains a +2 bonus to AC for 1 minute.
+    - You can expend a seal as a Bonus Action to weave a mantle of semisolid shadows around yourself or a creature you touch. The target gains a +2 bonus to AC for 1 minute.
   - Unleash Hell ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Skills/4_Readme_48/Spell_Illrigger_BurningSeals_Fire_Big.png?raw=true)
     - When you burn one or more seals on an interdicted creature, you can use your reaction to unleash an explosion of hellish energy around them. Each creature of your choice within 5 feet of the target must make a Dexterity saving throw. On a failed save, a creature takes the same amount and type of damage as the seals dealt to the interdicted creature. On a successful save, a creature takes half as much damage.
   - Vengeful Shot ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Skills/4_Readme_48/Illrigger_VengefulShot.png?raw=true)
@@ -2175,11 +2175,11 @@ Arcane Tricksters now learn their spells from the wizard spell list, without res
 - Level 12: Interdiction
   - You can infuse your seals with hellish magical power, enhancing their effects.
   - Dis's Onslaught ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Skills/4_Readme_48/Illrigger_DissOnslaught.png?raw=true)
-    - Each time you use a bonus action to place or move a seal, you can make one weapon attack as part of the same bonus action.
+    - Each time you use a Bonus Action to place or move a seal, you can make one weapon attack as part of the same Bonus Action.
   - Flash of Brimstone ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Skills/4_Readme_48/Illrigger_FlashOfBrimstone.png?raw=true)
     - When you place or move a seal, you can activate this boon (no action required) to magically teleport to an unoccupied space you can see within 5 feet of the target.
   - Soul's Doom ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Skills/4_Readme_48/Illrigger_SoulsDoom.png?raw=true)
-    - When you use a bonus action to place or move a seal, you can scorch the seals into the target's soul. For 1 minute, whenever that interdicted creature takes damage, they take extra damage equal to your proficiency bonus.
+    - When you use a Bonus Action to place or move a seal, you can scorch the seals into the target's soul. For 1 minute, whenever that interdicted creature takes damage, they take extra damage equal to your proficiency bonus.
 
 ### Architect of Ruin
 
@@ -2221,7 +2221,7 @@ Arcane Tricksters now learn their spells from the wizard spell list, without res
 - Level 3: Moloch's Blessing
   - When Moloch accepts you as his illrigger, he grants you access to his infernal knowledge. You gain expertise in Persuasion and Deception.
 - Level 3: Charm Enemy
-  - When you use your bonus action to place a seal on a Humanoid, you can attempt to charm them. The target must succeed on a Charisma saving throw or be charmed by you for 1 hour or until you or your companions do anything harmful to them.
+  - When you use your Bonus Action to place a seal on a Humanoid, you can attempt to charm them. The target must succeed on a Charisma saving throw or be charmed by you for 1 hour or until you or your companions do anything harmful to them.
 - Level 3: Invoke Hell ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Resources/1_Normal_48/InvokeHellCharge.png?raw=true)
   - Honey-Sweet Blades ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Skills/4_Readme_48/Illrigger_HoneySweetBlades.png?raw=true)
     - When you make a weapon attack against an interdicted creature, If the attack hits, it becomes a critical hit.
@@ -2232,7 +2232,7 @@ Arcane Tricksters now learn their spells from the wizard spell list, without res
 - Level 11: Intransigent ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Skills/4_Readme_48/Illrigger_Intransigent.png?raw=true)
   - You and your allies within 10 feet of you are immune to the charmed condition while you are conscious.
 - Level 11: Let's Make a Deal ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Skills/4_Readme_48/Illrigger_LetsMakeADeal.png?raw=true)
-  - As a bonus action, you can offer a willing ally within 60 feet a deal. Within the next 10 minutes, they gain advantage on one attack roll or saving throw. After using this effect, there is a 50% chance they receive a blessing, gaining 12 temporary hit points, or a curse, suffering disadvantage on their next attack roll or saving throw.
+  - As a Bonus Action, you can offer a willing ally within 60 feet a deal. Within the next 10 minutes, they gain advantage on one attack roll or saving throw. After using this effect, there is a 50% chance they receive a blessing, gaining 12 temporary Hit Points, or a curse, suffering disadvantage on their next attack roll or saving throw.
 
 ### Painkiller
 
@@ -2258,7 +2258,7 @@ Arcane Tricksters now learn their spells from the wizard spell list, without res
 - Level 7: Telekinetic Seal ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Skills/4_Readme_48/Illrigger_TelekineticSeal.png?raw=true)
   - When a creature you can see moves within 5 feet of you, you can use your reaction to place a seal on them. When you do, the target must succeed on a Wisdom saving throw or be either pushed back 15 feet.
 - Level 11: You Die on My Command! ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Skills/4_Readme_48/Illrigger_YouDieOnMyCommand.png?raw=true)
-  - When an ally within 30 feet of you who can hear you is killed, you can use your reaction to shout an order at them, causing them to be revived and regain 1 hit point. Once you use this reaction, you can't do so again until you finish a short or long rest.
+  - When an ally within 30 feet of you who can hear you is killed, you can use your reaction to shout an order at them, causing them to be revived and regain 1 hit point. Once you use this reaction, you can't do so again until you finish a short or Long Rest.
 
 ### Sanguine Knight
 
@@ -2273,16 +2273,16 @@ Arcane Tricksters now learn their spells from the wizard spell list, without res
 - Level 3: Sutekh's Blessing
   - When Sutekh accepts you as his illrigger, he grants you access to his sacrilegious command of blood and life. You gain expertise in the Religion skill.
 - Level 3: Exsanguinate ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Skills/4_Readme_48/Illrigger_Exsanguinate.png?raw=true)
-  - You can drain enemies to embolden your allies. Whenever you burn one or more seals on a creature, you can choose an ally you can see within 30 feet of you. That ally gains temporary hit points equal to the damage dealt by the seals to the interdicted creature.
+  - You can drain enemies to embolden your allies. Whenever you burn one or more seals on a creature, you can choose an ally you can see within 30 feet of you. That ally gains temporary Hit Points equal to the damage dealt by the seals to the interdicted creature.
 - Level 3: Invoke Hell ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Resources/1_Normal_48/InvokeHellCharge.png?raw=true)
   - Embolden Allies ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Skills/4_Readme_48/Illrigger_EmboldenAllies.png?raw=true)
-    - As a bonus action, you restore a total number of hit points equal to five times your illrigger level, divided however you choose between yourself and other creatures within 30 feet of you.
+    - As a Bonus Action, you restore a total number of Hit Points equal to five times your illrigger level, divided however you choose between yourself and other creatures within 30 feet of you.
   - Vitalize ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Skills/4_Readme_48/Illrigger_Vitalize.png?raw=true)
     - You can flood your allies with invigorating vivacity (no action required). For 1 minute, each creature of your choice within 30 feet of you gains advantage on all ability checks.
 - Level 7: Foul Interchange ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Skills/4_Readme_48/Illrigger_FoulInterchange.png?raw=true)
   - As an action, you choose a creature you can see within 30 feet of you and expend a seal to end one of the following conditions affecting them: blinded, charmed, dazed, frightened, paralyzed, or poisoned. Then, you choose another creature within 60 feet of you, which must succeed on a Constitution saving throw or suffer a random condition until the start of your next turn.
 - Level 11: Bloodstroke ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Skills/4_Readme_48/Illrigger_Bloodstroke.png?raw=true)
-  - The magic that shields your allies now also saps their enemies' strength. When an ally who has temporary hit points from your Exsanguinate feature is hit by a melee attack, the attacker takes 11 necrotic damage.
+  - The magic that shields your allies now also saps their enemies' strength. When an ally who has temporary Hit Points from your Exsanguinate feature is hit by a melee attack, the attacker takes 11 Necrotic damage.
 
 ### Shadowmaster
 
@@ -2300,9 +2300,9 @@ Arcane Tricksters now learn their spells from the wizard spell list, without res
   - Master of Disguise
     - As an action, you can cast the disguise self spell without expending a spell slot.
   - No Escape ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Skills/4_Readme_48/Illrigger_NoEscape.png?raw=true)
-    - As a bonus action, you can call upon the shadows to entrap a creature you can see within 30 feet of you. The target must make a Charisma saving throw, with disadvantage if they are in dim light or darkness. On a failed save, the target is slowed. This effect ends if you are incapacitated, die, or if the target moves more than 30 feet away from you.
+    - As a Bonus Action, you can call upon the shadows to entrap a creature you can see within 30 feet of you. The target must make a Charisma saving throw, with disadvantage if they are in dim light or darkness. On a failed save, the target is slowed. This effect ends if you are incapacitated, die, or if the target moves more than 30 feet away from you.
 - Level 7: Veil of Lies
-  - As a bonus action, you can expend a seal to become invisible for 10 minutes or until you attack or cast a spell.
+  - As a Bonus Action, you can expend a seal to become invisible for 10 minutes or until you attack or cast a spell.
 - Level 11: Umbral Killer
   - Shadows enhance your abilities, granting you Devil's Sight, an additional 10 feet of movement speed, and advantage on Stealth checks. Additionally, when making a Dexterity saving throw to take half damage, you instead take no damage on a success and half damage on a failure.
 
@@ -2321,7 +2321,7 @@ Arcane Tricksters now learn their spells from the wizard spell list, without res
 - Level 2: Psionic Discipline
   - You learn further psionic techniques fueled by your Psionic Energy Dice. You gain two disciplines of your choice, You gain additional options at Psion levels 6 and 10.
   - Biofeedback
-    - When you cast a Psion spell from the Necromancy or Transmutation school, you can expend a number of Psionic Energy Dice up to your Intelligence modifier. Roll those dice, and you gain a number of temporary hit points equal to the total rolled plus your Intelligence modifier (minimum of 1).
+    - When you cast a Psion spell from the Necromancy or Transmutation school, you can expend a number of Psionic Energy Dice up to your Intelligence modifier. Roll those dice, and you gain a number of temporary Hit Points equal to the total rolled plus your Intelligence modifier (minimum of 1).
   - Destructive Thoughts
     - When you cast a Psion spell from the Conjuration or Evocation school that forces a creature you can see to make a saving throw, you can expend a number of Psionic Energy Dice up to your Intelligence modifier and roll them. The creature takes psychic damage equal to the total rolled plus your Intelligence modifier (minimum of 1), regardless of the result of the saving throw.
   - Devilish Tongue
@@ -2345,7 +2345,7 @@ Arcane Tricksters now learn their spells from the wizard spell list, without res
 - Level 5: Psionic Restoration
   - You regain expended Psionic Energy Dice.
 - Level 7: Psionic Surge
-  - Whenever you expend a Psionic Energy Die, you can regain your bonus action.
+  - Whenever you expend a Psionic Energy Die, you can regain your Bonus Action.
 
 ### Metamorph
 
@@ -2371,7 +2371,7 @@ Arcane Tricksters now learn their spells from the wizard spell list, without res
     - Your hand and forearm transform into a crossbow of muscle and sinew that fires bolts of bile. This Viscera Launcher functions as a Simple Ranged weapon with a normal range of 30 feet and a long range of 90 feet, dealing 1d6 Acid damage on a hit.
     - Once per turn, when you hit a creature with an attack using this launcher, you can deal an extra 1d6 Acid damage to the target.
 - Level 3: Extend Libs ![](https://github.com/yoonmoonsik/dnd2024/blob/master/%EC%95%84%EC%9D%B4%EC%BD%98/Skills/4_Readme_48/Psion_ExtendLimbs.png?raw=true)
-  - As a bonus action, you can expend one Psionic Energy Die to psionically stretch your limbs for 1 minute. Roll the expended die and gain a number of temporary hit points equal to the number rolled plus your Intelligence modifier (minimum of 1). While this feature is active, you gain the following benefits
+  - As a Bonus Action, you can expend one Psionic Energy Die to psionically stretch your limbs for 1 minute. Roll the expended die and gain a number of temporary Hit Points equal to the number rolled plus your Intelligence modifier (minimum of 1). While this feature is active, you gain the following benefits
     - Reach: Your reach increases by 5 feet.
     - Speed: Your speed increases by 5 feet.
     - Touch: When you cast a spell with a range of touch and a casting time of 1 action, you can cast the spell as if it had a range of 10 feet.
@@ -2406,7 +2406,7 @@ Arcane Tricksters now learn their spells from the wizard spell list, without res
 - Level 6: Warp Space
   - When you cast Shatter, you can expend one Psionic Energy Die to make the spell's radius 20 feet. Also, creatures failing the saving throw are pulled straight toward the sphere's center.
 - Level 6: Teleporter Combat
-  - Immediately after you cast Misty Step, you can cast one of your Psion cantrips that has a casting time of an action as part of the same bonus action.
+  - Immediately after you cast Misty Step, you can cast one of your Psion cantrips that has a casting time of an action as part of the same Bonus Action.
 - Level 10: Ethereal Shift
   - When a creature you can see makes an attack roll against you, you can use your reaction and expend one Psionic Energy Die to Blink to the Ethereal Plane, causing the creature to miss the attack.
 
@@ -2544,7 +2544,7 @@ Arcane Tricksters now learn their spells from the wizard spell list, without res
   - Harper Teamwork: When you Distract a creature, it has disadvantage on its next saving throw before the start of your next turn. If you end the Frightened or Paralyzed condition on yourself with a saving throw, you can also end that condition for one ally within 30 feet of you.
   - Lordly Resolve: As a Bonus Action, you can choose up to three creatures within 60 feet that can see you; each target use its Reaction to stand and end the Prone condition. You always have Calm Emotions prepared, can cast it once per Long Rest without a slot or concentration, and may also cast it with spell slots.
   - Order’s Resilience: When you are Prone, you can stand using only 5 feet of movement. If you are within 5 feet of an ally who isn’t Incapacitated, both you and that ally have advantage on Strength saving throws. You can’t use this benefit while Incapacitated.
-  - Purple Dragon Commandant: As a Bonus Action, you can grant an ally within 30 feet Temporary Hit Points equal to 2d6 + your spellcasting ability modifier, usable a number of times equal to your Proficiency Bonus per Long Rest. You have advantage on attack rolls while at or below half of your hit points.
+  - Purple Dragon Commandant: As a Bonus Action, you can grant an ally within 30 feet Temporary Hit Points equal to 2d6 + your spellcasting ability modifier, usable a number of times equal to your Proficiency Bonus per Long Rest. You have advantage on attack rolls while at or below half of your Hit Points.
   - Spellfire Adept: Spells you cast and attacks you make ignore Resistance to Radiant damage. In addition, when you deal Radiant damage with a spell, you cannot roll a 1. 
   - Zhentarim Tactics: Immediately after a creature within 5 feet of you hits you with a melee attack, you can make an Opportunity Attack against that creature. Choose one skill; you gain Expertise in that skill.
 
@@ -2572,7 +2572,7 @@ Arcane Tricksters now learn their spells from the wizard spell list, without res
 - Origin Feats
   - [Altered](https://www.dndbeyond.com/feats/2048513-altered): You have natural armor (AC 13 + Dex/Con), natural weapons (1d4 damage), and 60‑foot Darkvision.
   - [Charm Twister](https://www.dndbeyond.com/feats/2048514-charm-twister): You can cast Bless once per Long Rest, or more often by spending spell slots.
-  - [Crimson Ritualist](https://www.dndbeyond.com/feats/2048515-crimson-ritualist): You gain Blood Bolt Cantrip, and create a healing potion after a long rest.
+  - [Crimson Ritualist](https://www.dndbeyond.com/feats/2048515-crimson-ritualist): You gain Blood Bolt Cantrip, and create a healing potion after a Long Rest.
   - [Cult Initiate](https://www.dndbeyond.com/feats/2048516-cult-initiate): You learn Eldritch Blast and Bone Chill, and can cast Hex once per Long Rest or with spell slots.
   - [Dread Speech](https://www.dndbeyond.com/feats/2048519-dread-speech): You can cast Bane once per Long Rest, or more often by spending spell slots.
   - [Fate Gambler](https://www.dndbeyond.com/feats/2048520-fate-gambler): You regain all your Heroic Inspiration after a Long or Short Rest. You regain 1 use when you successfully score a critical hit against another creature.
